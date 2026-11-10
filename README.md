@@ -37,6 +37,8 @@ v0.1，对应上游 **Emerald NDS v2.1**：
 
 ## 安装
 
+最新补丁见 [Releases](https://github.com/klx1204/emerald-nds-zh/releases)。
+
 需要：
 
 1. 你自己的 **Pokémon Black Version 2**（USA/Europe，游戏码 `IREO`）干净 dump：
