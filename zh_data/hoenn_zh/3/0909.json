@@ -4,14 +4,14 @@
  "lines": [
   "…",
   "Let me see your Pokémon.\\nI’ll check to see how much it likes you.{be01}\\nOh.\\nYour Pokémon...",
-  "它很敬仰你，\\n非常非常喜欢你。{be00}\\n看着它，我也很开心。",
-  "它看上去很高兴，\\n明显很喜欢你。",
-  "它挺喜欢你的，\\n看上去还想再被宠一些。",
-  "它开始习惯和你相处了，\\n好像已经开始相信你。",
-  "它还不太习惯和你相处，\\n很难说是喜欢你还是讨厌你。",
-  "它的警惕心很强，\\n眼神特别吓人。{be00}\\n它一点也不喜欢你。",
+  "它很敬仰你，非常非\\n常喜欢你。{be00}\\n看着它，我也很开心\\n。",
+  "它看上去很高兴，明\\n显很喜欢你。",
+  "它挺喜欢你的，看上\\n去还想再被宠一些。",
+  "它开始习惯和你相处\\n了，好像已经开始相\\n信你。",
+  "它还不太习惯和你相\\n处，很难说是喜欢你\\n还是讨厌你。",
+  "它的警惕心很强，眼\\n神特别吓人。{be00}\\n它一点也不喜欢你。",
   "This is a little hard for me to say...{be01}\\nYour Pokémon simply detests you.\\nDoesn’t that make you uncomfortable?",
-  "皮卡丘：皮卡！皮卡！"
+  "皮卡丘：皮卡！皮卡\\n！"
  ],
  "matched": [
   false,

@@ -4,9 +4,9 @@
  "lines": [
   "Wow, you bothered to cross the sea\\nto visit Dewford?{be01}\\nDid you maybe come here because you\\nheard about Brawly?{be01}\\nHe’s so cool...\\nEveryone idolizes him.",
   "This vase looks expensive...\\nPeered inside...{be01}\\nBut, it was empty.",
-  "来一饱眼福吧！{be01}\\n这是丝绸围巾，\\n是正流行的款式！{be01}\\n啊，你的眼睛兴奋地发光了！\\n你欣赏我这眩目的款式！{be01}\\n啊，真高兴！\\n给你吧，送给你了！",
-  "呀，你没地方装了？{be01}\\n那，听好，这个围巾是\\n你的必备品！哎，我要是你，{be00}\\n我会卖掉我的一切来得到它！",
-  "丝绸围巾能提升\\n一般属性招式的威力，{be01}\\n是对几乎所有宝可梦都有\\n极大用处的头巾！"
+  "来一饱眼福吧！{be01}\\n这是丝绸围巾，是正\\n流行的款式！{be01}\\n啊，你的眼睛兴奋地\\n发光了！你欣赏我这\\n眩目的款式！{be01}\\n啊，真高兴！给你吧\\n，送给你了！",
+  "呀，你没地方装了？{be01}\\n那，听好，这个围巾\\n是你的必备品！哎，\\n我要是你，{be00}\\n我会卖掉我的一切来\\n得到它！",
+  "丝绸围巾能提升一般\\n属性招式的威力，{be01}\\n是对几乎所有宝可梦\\n都有极大用处的头巾\\n！"
  ],
  "matched": [
   false,

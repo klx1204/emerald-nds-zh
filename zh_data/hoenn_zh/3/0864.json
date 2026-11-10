@@ -2,13 +2,13 @@
  "index": 864,
  "source": "patched",
  "lines": [
-  "辛苦了！\\n这里是宝可梦中心。{be01}\\n在这里可以\\n回复宝可梦的体力。{be01}\\n要让您的宝可梦休息一下吗？",
+  "辛苦了！这里是宝可\\n梦中心。{be01}\\n在这里可以回复宝可\\n梦的体力。{be01}\\n要让您的宝可梦休息\\n一下吗？",
   "那么，就交给我吧！",
-  "久等了！{be01}\\n交给我的宝可梦们\\n全都变得精力充沛了哦！",
+  "久等了！{be01}\\n交给我的宝可梦们全\\n都变得精力充沛了哦\\n！",
   "欢迎下次再来！",
   "Your Pokémon may be infected with\\nPokérus.{be01}\\nLittle is known about the Pokérus\\nexcept that they are microscopic life-{be00}\\nforms that attach to Pokémon.{be01}\\nWhile infected, Pokémon are said to\\ngrow exceptionally well.",
-  "我的宝可梦是天真性格，\\n而我朋友的是爽朗性格。{be01}\\n宝可梦也有自己的性格，\\n真有趣！",
-  "就像人类一样，\\n宝可梦也有性别，{be01}\\n但似乎没人知道\\n它们的不同点在何处。",
+  "我的宝可梦是天真性\\n格，而我朋友的是爽\\n朗性格。{be01}\\n宝可梦也有自己的性\\n格，真有趣！",
+  "就像人类一样，宝可\\n梦也有性别，{be01}\\n但似乎没人知道它们\\n的不同点在何处。",
   "隔壁的人给了我一个\\n秘传学习器！{be01}\\n我用它教我的宝可梦\\n怎样砍倒小树。",
   "Pokémon magazines!\\nPokémon Pal...{be01}\\nPokémon Handbook...\\nAdorable Pokémon...",
   "{0100:0} took a closer look at the\\nHoenn region map."

@@ -2,7 +2,7 @@
  "index": 902,
  "source": "patched",
  "lines": [
-  "海底火山爆发后，\\n从深海中升起，{be01}\\n火山口露出海面，\\n被雨水填满。{be01}\\n琉璃市的历史\\n就由此开端。",
+  "海底火山爆发后，从\\n深海中升起，{be01}\\n火山口露出海面，被\\n雨水填满。{be01}\\n琉璃市的历史就由此\\n开端。",
   "The cave that links Sootopolis and\\nthe outside world...{be01}\\nIt seems as if the cave was made to\\nkeep something from getting out.{be01}\\nOr am I just imagining things?"
  ],
  "matched": [

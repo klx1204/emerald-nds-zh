@@ -3,16 +3,16 @@
  "source": "patched",
  "lines": [
   "一套宝可梦画册。",
-  "装满了各种各样的书。",
+  "装满了各种各样的书\\n。",
   "Hi, hi! I’m the Name Rater!\\nI’m the fortune-teller of names!{be01}\\nI shall be pleased to rate your\\nPokémon’s nickname.",
-  "你想算哪只\\n宝可梦的昵称啊？",
-  "这样啊。\\n知道了，你有空再来吧。",
+  "你想算哪只宝可梦的\\n昵称啊？",
+  "这样啊。知道了，你\\n有空再来吧。",
   "Hmmm... {0100:1}, is it? That is\\nquite a fine name you bestowed.{be01}\\nBut! What say you, if I were to\\nsuggest a slightly better name?",
-  "喂喂……\\n这不是颗蛋吗！",
+  "喂喂……这不是颗蛋吗\\n！",
   "Hmmm... {0100:1} it is!{be01}\\nThis is a magnificent nickname!\\nIt is impeccably beyond reproach!{be01}\\nYou’ll do well to cherish your\\n{0100:1} now and beyond.",
-  "是吗，那……\\n取个什么昵称好呢？",
-  "好！从今天起\\n这只宝可梦就叫{0100:1}啦！{be01}\\n虽然听起来和之前的差不多，\\n但这个更棒哦！{be00}\\n太好了太好了！",
-  "好！从今天起\\n这只宝可梦就叫{0100:1}啦！{be01}\\n比之前的名字好听太多了，\\n太好了太好了！"
+  "是吗，那……取个什么\\n昵称好呢？",
+  "好！从今天起这只宝\\n可梦就叫{0100:1}啦！{be01}\\n虽然听起来和之前的\\n差不多，但这个更棒\\n哦！{be00}\\n太好了太好了！",
+  "好！从今天起这只宝\\n可梦就叫{0100:1}啦！{be01}\\n比之前的名字好听太\\n多了，太好了太好了\\n！"
  ],
  "matched": [
   true,

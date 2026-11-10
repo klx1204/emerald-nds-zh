@@ -2,10 +2,10 @@
  "index": 903,
  "source": "patched",
  "lines": [
-  "装满了各种各样的书。",
+  "装满了各种各样的书\\n。",
   "Do you know the Pokémon Shroomish?\\nIt’s hardly ever seen in Sootopolis.{be01}\\nAnyway, I love big Shroomish.\\nThe bigger the better.{be01}\\nBut my younger brother, he says that\\nBarboach is bigger.{be01}\\nThat’s silly. Shroomish has to be\\nbigger than that!{be01}\\nHuh? Do you have a Shroomish with you?\\nP-p-please, show me!",
   "{0100:2} inches!\\nOh, my gosh, this is a big one!{be01}\\nIt might even beat the big Barboach\\nmy younger brother saw!{be01}\\nThanks for showing me.\\nThis is my thanks!",
-  "嗯？\\n你的包包已经塞满了。",
+  "嗯？你的包包已经塞\\n满了。",
   "{0100:2} inches, is it?{be01}\\nHmm... I’ve seen a bigger Shroomish\\nthan this one.",
   "Oh, now this is quite something...\\nBut it’s not a Shroomish!",
   "You don’t have a big Shroomish?\\nThat’s too bad...{be01}\\nIf you get a big Shroomish, please\\ncome show me.",

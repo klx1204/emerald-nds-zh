@@ -3,17 +3,17 @@
  "source": "patched",
  "lines": [
   "HOENN POKÉDEX",
-  "NATIONAL POKÉDEX",
-  "SEEN",
-  "OBTAINED",
-  "SEARCH RESULTS",
+  "全国图鉴",
+  "发现数",
+  "收服数",
+  "检索结果",
   "{0202:0}",
   "    \\x{ffff}",
   "?????",
   "{0202:0}",
-  "NATIONAL",
+  "全国",
   "HOENN",
-  "HABITAT"
+  "栖息地"
  ],
  "matched": [
   false,

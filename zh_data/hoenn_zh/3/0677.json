@@ -2,7 +2,7 @@
  "index": 677,
  "source": "patched",
  "lines": [
-  "这里挺好玩的吧？\\n我一来这里就兴奋！"
+  "这里挺好玩的吧？我\\n一来这里就兴奋！"
  ],
  "matched": [
   true

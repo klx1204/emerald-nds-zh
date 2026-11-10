@@ -2,7 +2,7 @@
  "index": 806,
  "source": "patched",
  "lines": [
-  "在很远的地方就能感觉到\\n发电机散发出的热量。{be01}\\n看来必须赶紧\\n关掉它。",
+  "在很远的地方就能感\\n觉到发电机散发出的\\n热量。{be01}\\n看来必须赶紧关掉它\\n。",
   "发电机停止了。",
   "{0100:0} stepped on the switch.{be01}\\nClick...{be01}\\n... ... ... ... ... ... ... ...\\n... ... ... ... ... ... ... ...{be01}\\nThe generator appears to have\\nstopped..."
  ],
