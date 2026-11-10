@@ -23,7 +23,7 @@ import subprocess
 import sys
 from pathlib import Path
 
-from PIL import Image
+from PIL import Image, ImageDraw, ImageFont
 
 GUIDE = 4  # glyphs.png 里 cell 之间的分隔线颜色索引
 
@@ -58,7 +58,13 @@ def quantize(value: int) -> int:
 
 
 def add_glyphs(
-    font_dir: Path, expansion: Path, chars: list[str], sheet_name: str, replace: bool = True
+    font_dir: Path,
+    expansion: Path | None,
+    chars: list[str],
+    sheet_name: str,
+    replace: bool = True,
+    ttf: Path | None = None,
+    ttf_size: int | None = None,
 ) -> int:
     font = json.loads((font_dir / "font.json").read_text(encoding="utf-8"))
     font.pop("$schema", None)
@@ -90,11 +96,16 @@ def add_glyphs(
     out.paste(sheet, (0, 0))
     out_px = out.load()
 
-    source = Image.open(expansion / "graphics/fonts" / sheet_name)
-    if source.size[0] % 16 or source.size[1] % 16:
-        raise SystemExit(f"字库图尺寸异常：{source.size}")
-    src_columns = source.size[0] // 16
-    cmap = load_charmap(expansion)
+    source = None
+    src_columns = 0
+    cmap: dict[str, int] = {}
+    if expansion is not None:
+        source = Image.open(expansion / "graphics/fonts" / sheet_name)
+        if source.size[0] % 16 or source.size[1] % 16:
+            raise SystemExit(f"字库图尺寸异常：{source.size}")
+        src_columns = source.size[0] // 16
+        cmap = load_charmap(expansion)
+    ttf_font = ImageFont.truetype(str(ttf), ttf_size or cell_w) if ttf else None
 
     # 用字体里已有的全角汉字作为字宽/字距参考
     reference = next(
@@ -106,21 +117,26 @@ def add_glyphs(
 
     written = 0
     for ch in wanted:
-        code = cmap.get(ch)
-        if code is None:
-            continue
-        index = glyph_index(code)
-        # 源图是索引 PNG：0 是背景，1/2 是笔画深浅。不能转灰度，
-        # 否则调色板会把背景变成 255、笔画变成深色，量化后整格反色。
-        tile = source.crop(
-            (
-                (index % src_columns) * 16,
-                (index // src_columns) * 16,
-                (index % src_columns) * 16 + 16,
-                (index // src_columns) * 16 + 16,
+        if ttf_font is not None:
+            # 直接渲染 TTF 到 cell：背景 0，笔画 2
+            tile = Image.new("P", (cell_w, cell_h), 0)
+            ImageDraw.Draw(tile).text((0, 1), ch, font=ttf_font, fill=2)
+        else:
+            code = cmap.get(ch)
+            if code is None:
+                continue
+            index = glyph_index(code)
+            # 源图是索引 PNG：0 是背景，1/2 是笔画深浅。不能转灰度，
+            # 否则调色板会把背景变成 255、笔画变成深色，量化后整格反色。
+            tile = source.crop(
+                (
+                    (index % src_columns) * 16,
+                    (index // src_columns) * 16,
+                    (index % src_columns) * 16 + 16,
+                    (index // src_columns) * 16 + 16,
+                )
             )
-        )
-        tile = tile.resize((cell_w, cell_h), Image.NEAREST)
+            tile = tile.resize((cell_w, cell_h), Image.NEAREST)
 
         if ch in position:
             slot = position[ch]
@@ -151,18 +167,29 @@ def add_glyphs(
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--font-dir", type=Path, required=True)
-    parser.add_argument("--expansion", type=Path, required=True)
+    parser.add_argument("--expansion", type=Path, default=None)
     parser.add_argument("--chars", default="")
     parser.add_argument("--chars-file", type=Path, default=None)
     parser.add_argument("--sheet", default="chinese_normal.png")
+    parser.add_argument("--ttf", type=Path, default=None)
+    parser.add_argument("--ttf-size", type=int, default=None)
     parser.add_argument("--nitro-font", type=Path, default=None)
     parser.add_argument("--out", type=Path, required=True)
     args = parser.parse_args()
 
+    if args.expansion is None and args.ttf is None:
+        raise SystemExit("需要 --expansion 或 --ttf 之一")
     chars = list(args.chars)
     if args.chars_file:
         chars += list(args.chars_file.read_text(encoding="utf-8"))
-    add_glyphs(args.font_dir, args.expansion, chars, args.sheet)
+    add_glyphs(
+        args.font_dir,
+        args.expansion,
+        chars,
+        args.sheet,
+        ttf=args.ttf,
+        ttf_size=args.ttf_size,
+    )
 
     nitro = args.nitro_font or Path("tools/vendor/nitro_font.py")
     if not nitro.exists():

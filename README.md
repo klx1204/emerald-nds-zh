@@ -12,7 +12,7 @@
 
 v0.1，对应上游 **Emerald NDS v2.1**：
 
-- 字体：字体 0/2 补齐 3251 个汉字，使用 `rh-hideout-chinese/pokeemerald-expansion` 的点阵字库；原有日文空字形也一并覆盖。
+- 字体：字体 0/2 补齐 3251 个汉字，使用 **Fusion Pixel 12px / 10px**（OFL 1.1）渲染；原有日文空字形也一并覆盖。
 - 黑2原生 UI：从黑2汉化版迁移 995 个文本文件（约 5.2 万条），按文件索引 + 行号对齐。
 - Hoenn 文本：用中文 `pokeemerald-expansion` 做**精确匹配**，命中约 19.5%，其余保留英文。
 

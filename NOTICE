@@ -2,12 +2,14 @@
 
 本项目使用的第三方资源如下。它们各自保留原有许可，GPL-3.0 不覆盖这些资源。
 
-1. 中文字库点阵
-   - 来源：rh-hideout-chinese/pokeemerald-expansion
-     https://github.com/rh-hideout-chinese/pokeemerald-expansion
-     graphics/fonts/chinese_normal.png、chinese_small.png、charmap.txt
-   - 性质：民间汉化项目的字库与编码表，版权归原汉化参与者。
-   - 本项目只做格式转换（点阵 → NDS NFTR），不改变字形内容。
+1. 中文点阵字体
+   - 来源：TakWolf/fusion-pixel-font
+     https://github.com/TakWolf/fusion-pixel-font
+     12px / 10px monospaced zh_hans（OTF）
+   - 许可：SIL Open Font License 1.1
+   - 说明：由该字体渲染出的 NDS NFTR 字形属于字体修改，按 OFL 1.1 分发。
+   - 早期版本也曾使用 rh-hideout-chinese/pokeemerald-expansion 的中文点阵图，
+     当前发布版已改为 Fusion Pixel。
 
 2. 中文文本
    - 来源：rh-hideout-chinese/pokeemerald-expansion（Emerald 中文文本）
