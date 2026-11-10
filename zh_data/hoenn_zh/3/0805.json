@@ -1,0 +1,14 @@
+{
+ "index": 805,
+ "source": "patched",
+ "lines": [
+  "门锁住了。",
+  "使用地下钥匙吗？",
+  "{0100:0}使用了地下钥匙。{be01}\\n门打开了！"
+ ],
+ "matched": [
+  true,
+  true,
+  true
+ ]
+}

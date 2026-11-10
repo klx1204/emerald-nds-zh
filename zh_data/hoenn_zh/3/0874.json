@@ -1,0 +1,12 @@
+{
+ "index": 874,
+ "source": "patched",
+ "lines": [
+  "这儿原来有浅滩海盐，\\n但现在什么也没有了。",
+  "Too bad!\\nThe Bag is full..."
+ ],
+ "matched": [
+  true,
+  false
+ ]
+}

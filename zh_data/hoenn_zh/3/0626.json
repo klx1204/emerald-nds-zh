@@ -1,0 +1,32 @@
+{
+ "index": 626,
+ "source": "patched",
+ "lines": [
+  "这里是古玫镇。\\n“积微成著之地。”",
+  "“Rejuvenate your tired partners!”\\nPokémon Center",
+  "“Selected items for your convenience!”\\nPokémon Mart",
+  "我想休息一下，\\n所以正在写下记录。",
+  "我刚刚发现了\\n稀有宝可梦的足迹！{be01}\\n等我描下它们来再说，\\n好吗？",
+  "您可以随时使用伤药，\\n在某些情况下它比宝可梦中心{be00}\\n更能派得上用场。",
+  "小遥：{0100:0}！\\n来这边！{be00}\\n我们快回去吧！",
+  "小悠：我要先回爸爸的\\n研究所了，{be00}\\n{0100:0}，你也快点来吧！",
+  "嗨！\\n我在友好商店工作，{be01}\\n可以跟我来吗？",
+  "这里就是友好商店，\\n蓝色的屋顶是我们的标志。{be01}\\n我们这里出售很多东西，\\n比如捕捉宝可梦的精灵球等等。{be01}\\n这个给您，\\n这是我们的宣传品。",
+  "I finished sketching the footprints of\\na rare Pokémon.{be01}\\nBut it turns out they were only my\\nown footprints...",
+  "啊啊啊啊！等等！\\n别从这里走过去，{be01}\\n这里有我刚刚发现的\\n稀有宝可梦的足迹！{be01}\\n等我描下它们来再说，\\n好吗？"
+ ],
+ "matched": [
+  true,
+  false,
+  false,
+  true,
+  true,
+  true,
+  true,
+  true,
+  true,
+  true,
+  false,
+  true
+ ]
+}

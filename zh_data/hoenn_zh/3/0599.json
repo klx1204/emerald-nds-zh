@@ -1,0 +1,14 @@
+{
+ "index": 599,
+ "source": "patched",
+ "lines": [
+  "Route 115\\n↓ Rustboro City",
+  "流星瀑布\\n穿过这里到达秋叶镇",
+  "Exploring a cave isn’t like walking\\non a road.{be01}\\nYou never know when wild Pokémon will\\nappear. It’s full of suspense."
+ ],
+ "matched": [
+  false,
+  true,
+  false
+ ]
+}

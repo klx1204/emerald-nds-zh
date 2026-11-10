@@ -1,0 +1,12 @@
+{
+ "index": 127,
+ "source": "patched",
+ "lines": [
+  "苏醒的烈空坐飞走了……",
+  "The {0100:1} flew away!"
+ ],
+ "matched": [
+  true,
+  false
+ ]
+}

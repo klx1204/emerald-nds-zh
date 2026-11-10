@@ -1,0 +1,26 @@
+{
+ "index": 720,
+ "source": "patched",
+ "lines": [
+  "…",
+  "I’m the Move Tutor.{be01}\\nI know all the moves that Pokémon\\nlearn - every one of them - and I can{be00}\\nteach Pokémon those moves.{be01}\\nI can teach a move to a Pokémon\\nof yours if you’d like.{be01}\\nI’ll do it for a Heart Scale.\\nI’m collecting those now.",
+  "哇哦！\\n这是心之鳞片！{be01}\\n要把招式教给你的宝可梦吗？",
+  "要选择哪只宝可梦？",
+  "要学习哪个招式？",
+  "{0100:0}将1个心之鳞片\\n作为谢礼送给了对方！",
+  "Sorry...{be01}\\nIt doesn’t appear as if I have any move\\nI can teach that Pokémon.",
+  "Hunh? There isn’t a single move that\\nI can teach an Egg.",
+  "如果有想让宝可梦学习的招式，\\n就把心之鳞片带过来吧！"
+ ],
+ "matched": [
+  false,
+  false,
+  true,
+  true,
+  true,
+  true,
+  false,
+  false,
+  true
+ ]
+}

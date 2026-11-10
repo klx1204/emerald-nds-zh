@@ -1,0 +1,8 @@
+{
+ "index": 373,
+ "source": "black2-cn",
+ "lines": [
+  "请按下\\x{ff33}\\x{ff34}\\x{ff21}\\x{ff32}\\x{ff34}按键",
+  "PUSH\\x{3000}START\\x{3000}BUTTON\\x{ffff}"
+ ]
+}

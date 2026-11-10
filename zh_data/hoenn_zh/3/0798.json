@@ -1,0 +1,14 @@
+{
+ "index": 798,
+ "source": "patched",
+ "lines": [
+  "下行缆车即将发车。\\n您要乘坐吗？",
+  "这边请。",
+  "欢迎再次乘坐。"
+ ],
+ "matched": [
+  true,
+  true,
+  true
+ ]
+}

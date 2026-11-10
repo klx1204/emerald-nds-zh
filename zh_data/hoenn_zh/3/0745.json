@@ -1,0 +1,26 @@
+{
+ "index": 745,
+ "source": "patched",
+ "lines": [
+  "辛苦了！\\n这里是宝可梦中心。{be01}\\n在这里可以\\n回复宝可梦的体力。{be01}\\n要让您的宝可梦休息一下吗？",
+  "那么，就交给我吧！",
+  "久等了！{be01}\\n交给我的宝可梦们\\n全都变得精力充沛了哦！",
+  "欢迎下次再来！",
+  "Your Pokémon may be infected with\\nPokérus.{be01}\\nLittle is known about the Pokérus\\nexcept that they are microscopic life-{be00}\\nforms that attach to Pokémon.{be01}\\nWhile infected, Pokémon are said to\\ngrow exceptionally well.",
+  "I gave a Red Pokéblock to my Pokémon.\\nIt looks a lot cooler all of a sudden.{be01}\\nHmm...\\nMaybe I ought to eat a Red Pokéblock.",
+  "如果训练家和宝可梦经常\\n在一起，他们会变得更加亲密的，{be01}\\n而且越久越好。\\n我是这么想的。",
+  "呵呵呵！喂，孩子，\\n你可以从这里进入温泉。{be01}\\n宝可梦休息的时候，\\n训练家也该放松一下。",
+  "{0100:0} took a closer look at the\\nHoenn region map."
+ ],
+ "matched": [
+  true,
+  true,
+  true,
+  true,
+  false,
+  false,
+  true,
+  true,
+  false
+ ]
+}

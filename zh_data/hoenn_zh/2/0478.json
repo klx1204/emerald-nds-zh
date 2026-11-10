@@ -1,0 +1,32 @@
+{
+ "index": 478,
+ "source": "patched",
+ "lines": [
+  "HOENN POKÉDEX",
+  "NATIONAL POKÉDEX",
+  "SEEN",
+  "OBTAINED",
+  "SEARCH RESULTS",
+  "{0202:0}",
+  "    \\x{ffff}",
+  "?????",
+  "{0202:0}",
+  "NATIONAL",
+  "HOENN",
+  "HABITAT"
+ ],
+ "matched": [
+  false,
+  false,
+  false,
+  false,
+  false,
+  false,
+  false,
+  false,
+  false,
+  false,
+  false,
+  false
+ ]
+}

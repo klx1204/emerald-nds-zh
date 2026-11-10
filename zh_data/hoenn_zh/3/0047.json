@@ -1,0 +1,28 @@
+{
+ "index": 47,
+ "source": "patched",
+ "lines": [
+  "时间还有剩余，\\n确定要结束狩猎游戏吗？",
+  "是吗，那就请您尽情\\n享受狩猎游戏吧！",
+  "好的，那么请将剩下的\\n狩猎球交给我们吧。{be01}\\n辛苦了！\\n期待您再次参加。",
+  "祝您好运！{be01}\\n如果您需要什么，\\n请随时告诉我！",
+  "Did you know?{be01}\\nIf you put a Pokéblock in that square box,\\nPokémon gather around.",
+  "I put a Pokéblock on the Pokéblock Feeder.\\nBut it seems to have disappeared.{be01}\\nI guess Pokémon must have eaten it\\nwithout me noticing.",
+  "我本来想走得更深入一些，\\n但我忘记带自行车了。{be01}\\n直觉告诉我有稀有宝可梦\\n生活在比较偏僻的地方。",
+  "这里的宝可梦好像是从\\n丰缘以外的地区来的。",
+  "这些宝可梦\\n我还是第一次见到，{be01}\\n而且我还能捕捉这些\\n稀有宝可梦！太棒了！",
+  "呀～嗬！这些宝可梦\\n都是我从来没见过的！"
+ ],
+ "matched": [
+  true,
+  true,
+  true,
+  true,
+  false,
+  false,
+  true,
+  true,
+  true,
+  true
+ ]
+}

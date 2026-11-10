@@ -1,0 +1,12 @@
+{
+ "index": 74,
+ "source": "patched",
+ "lines": [
+  "Sometimes, when I toss a Pokéblock at \\nPokémon, it gets ignored.{be01}\\nDo Pokémon have likes and dislikes\\nabout what they eat?",
+  "“放松一下你疲惫的双脚吧”\\n休息小屋"
+ ],
+ "matched": [
+  false,
+  true
+ ]
+}

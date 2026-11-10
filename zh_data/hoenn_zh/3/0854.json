@@ -1,0 +1,12 @@
+{
+ "index": 854,
+ "source": "patched",
+ "lines": [
+  "每只宝可梦都有一种\\n它可以使用的特性。",
+  "宝可梦真是奇怪的生物。"
+ ],
+ "matched": [
+  true,
+  true
+ ]
+}

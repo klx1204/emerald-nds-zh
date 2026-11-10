@@ -1,0 +1,14 @@
+{
+ "index": 756,
+ "source": "patched",
+ "lines": [
+  "Hmm...{be01}\\nAn attacking move...\\nOr a defensive move...{be01}\\nIt’s no easy matter to decide which TM\\nmoves should be taught to Pokémon...",
+  "有许多不同种类的\\n招式学习器呢，{be01}\\n我读过的图鉴上说\\n一共有50种不同的类型。",
+  "我想要所有的招式学习器，\\n但1只宝可梦只能学4种招式。"
+ ],
+ "matched": [
+  false,
+  true,
+  true
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "index": 825,
+ "source": "patched",
+ "lines": [
+  "…",
+  "You’re...\\nAh, you must be {0100:0}, right?{be01}\\nThank you for playing with Wally a\\nlittle while ago.{be01}\\nHe’s been frail and sickly ever\\nsince he was a baby.{be01}\\nWe’ve sent him to stay with my relatives\\nin Verdanturf Town for a while.{be01}\\nThe air is a lot cleaner there\\nthan it is here.{be01}\\nWhat’s that? Where’s Wally?\\nHe’s already left, our Wally.{be01}\\nI wonder where he could have\\ngotten by now?",
+  "{0100:0}！原谅我们\\n这样拉你过来，{be01}\\n但是，自从我家满充去了\\n绿茵镇之后，他的身体好多了。{be01}\\n我们都欠你的情！{be01}\\n满充离开镇子前，\\n是你陪他捕捉了一只宝可梦对吗？{be01}\\n我想那让满充\\n非常开心。{be01}\\n实际上，不只是满充，\\n作为父亲的我也很开心，{be01}\\n很开心他能交上\\n你这样的好朋友。{be01}\\n这点礼物虽然不算什么\\n但还是请你收下。",
+  "如果你的宝可梦会冲浪，\\n你就可以去很多地方了。",
+  "满充很快就会回家了，\\n真想快点见到他。",
+  "哦？你在彩悠市\\n遇到了满充？{be01}\\n哎，{0100:0}，别闹了。{be01}\\n他可能健康多了，\\n但它不可能一个人{be00}\\n到那么远的地方去。",
+  "不知道我家满充在做什么？",
+  "满充非常兴奋地告诉我们\\n他捕捉到了一只宝可梦。{be01}\\n已经有很多年没看到过\\n他那快乐的笑容了。",
+  "Oh, hello, {0100:0}! We’ve got\\nsomething we want you to have.{be01}\\nMy husband has it, so please have a\\nword with him, dear.",
+  "I want you to keep this a secret\\nfrom my husband...{be01}\\nBut our Wally left Verdanturf Town\\nwithout telling anyone.{be01}\\nYou know, Wally is frail, but\\nhe’s surprisingly strong-willed.{be01}\\nI’m sure that he’ll come back safe\\nand sound one day!"
+ ],
+ "matched": [
+  false,
+  false,
+  true,
+  true,
+  true,
+  true,
+  true,
+  true,
+  false,
+  false
+ ]
+}

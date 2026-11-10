@@ -1,0 +1,18 @@
+{
+ "index": 799,
+ "source": "patched",
+ "lines": [
+  "你是来祭奠逝去的宝可梦\\n的灵魂的吗？{be01}\\n你一定很怀念你的宝可梦。",
+  "This is the final resting place of my\\nZigzagoon. I cherished it...",
+  "All sorts of beings wander the slopes\\nof Mt. Pyre...{be01}\\nThere is no telling what may happen.\\nTake this. It’s for your own good.",
+  "让一只宝可梦携带\\n这个净化之符，{be01}\\n就能够避开一些野生宝可梦。",
+  "Too bad!\\nThe Bag is full..."
+ ],
+ "matched": [
+  true,
+  false,
+  false,
+  true,
+  false
+ ]
+}

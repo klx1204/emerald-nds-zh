@@ -1,0 +1,16 @@
+{
+ "index": 253,
+ "source": "patched",
+ "lines": [
+  "多么奇怪的小岛，不是吗？\\n你想返回水静市吗？",
+  "好的！出海，回家去了！",
+  "好的，你随意吧。",
+  "The {0100:1} flew away!"
+ ],
+ "matched": [
+  true,
+  true,
+  true,
+  false
+ ]
+}

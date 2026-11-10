@@ -1,0 +1,18 @@
+{
+ "index": 717,
+ "source": "patched",
+ "lines": [
+  "We do all right in the preliminary round,\\nbut we can never win the appeals...{be01}\\nMaybe it means I have to watch what\\nother contestants are doing...",
+  "看吧！\\n我的宝可梦赢得了所有的奖章！{be01}\\n你的宝可梦赢到过奖章吗？\\n你可以在你的宝可导航中查看。",
+  "I can’t beat Gym Leaders...{be01}\\nI can’t win any Contests...{be01}\\nI’ve been here, there, and everywhere,\\nand it’s all for naught...",
+  "宝可梦华丽大赛\\n超级会场！",
+  "宝可梦华丽大赛\\n超级会场！"
+ ],
+ "matched": [
+  false,
+  true,
+  false,
+  true,
+  true
+ ]
+}

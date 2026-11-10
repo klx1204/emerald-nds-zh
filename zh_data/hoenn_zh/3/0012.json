@@ -1,0 +1,28 @@
+{
+ "index": 12,
+ "source": "patched",
+ "lines": [
+  "What’s up, what’s up?{be01}\\nI saw a shady fellow scuttling in and\\nout of Prof. Cozmo’s Lab.",
+  "自古这片地区\\n就以陨石而闻名，{be01}\\n据说流星瀑布就是很久以前\\n一颗陨石掉下来砸成的。",
+  "露力丽：露力露。",
+  "“Selected items for your convenience!”\\nPokémon Mart",
+  "“Rejuvenate your tired partners!”\\nPokémon Center",
+  "对战帐篷秋叶镇分址\\n“最强战队，在此集结！”",
+  "这里是秋叶镇。\\n“有着小型田野的农村。”",
+  "招式爱好者的家\\n“教会宝可梦新的招式。”",
+  "来啊！来看看！\\n这是我珍贵的露力丽！{be01}\\n滑滑软软的，多漂亮！",
+  "你挑战过釜炎镇道馆的馆主\\n亚莎了吗？{be01}\\n那女孩的爷爷非常出名，\\n他曾是宝可梦联盟的{be00}\\n四天王之一，{be01}\\n如今亚莎也成长为一个\\n出色的训练家{be00}\\n并不让我感到奇怪。"
+ ],
+ "matched": [
+  false,
+  true,
+  true,
+  false,
+  false,
+  true,
+  true,
+  true,
+  true,
+  true
+ ]
+}

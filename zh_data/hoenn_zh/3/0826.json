@@ -1,0 +1,32 @@
+{
+ "index": 826,
+ "source": "patched",
+ "lines": [
+  "This vase looks expensive...\\nPeered inside...{be01}\\nBut, it was empty.",
+  "哈奇：稍等，孩子！\\n等等我，小皮！",
+  "Hm? You’re {0100:0}!\\nYou saved my darling Peeko!{be00}\\nWe owe so much to you!{be01}\\nWhat’s that?\\nYou want to sail with me?{be01}\\nHmhm...{be01}\\nYou have a Letter bound for Dewford\\nand a package for Slateport, then?{be01}\\nQuite the busy life you must lead!{be01}\\nBut, certainly, what you’re asking is\\nno problem at all.{be01}\\nYou’ve come to the right man!\\nWe’ll set sail for Dewford.",
+  "哈奇：目标武斗镇！{be01}\\n起锚咯！\\n小皮，亲爱的，我们出海了！",
+  "哈奇：这样吗？\\n你的包裹不急吗？{be01}\\n想出海随时叫我！",
+  "哈奇：喂！\\n我明白你的意思！{be01}\\n你想要去武斗镇送信，\\n还要去凯那市送包裹。{be01}\\n这点小事\\n包在我身上！{be01}\\n你找对人了！\\n我们这就启航去武斗镇。",
+  "哈奇：喂！\\n我明白你的意思！{be01}\\n你要送包裹给\\n凯那市的楠木。{be01}\\n这点小事\\n包在我身上！{be01}\\n你找对人了！\\n我们这就启航去武斗镇。",
+  "哈奇：喂！\\n为了你我随时都能出海！{be01}\\n说吧朋友，\\n这次想去哪儿？",
+  "哈奇：这样吗？\\n你可是小皮的救命恩人。{be01}\\n想出海随时叫我！",
+  "小皮：皮皮呦咯！",
+  "Dewford",
+  "Cancel"
+ ],
+ "matched": [
+  false,
+  true,
+  false,
+  true,
+  true,
+  true,
+  true,
+  true,
+  true,
+  true,
+  false,
+  false
+ ]
+}

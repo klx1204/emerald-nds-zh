@@ -1,0 +1,36 @@
+{
+ "index": 22,
+ "source": "patched",
+ "lines": [
+  "I want to go to the Pokémon Gym, but\\nsomething’s blocking the way.{be01}\\nAfter all the bother I went through\\ntraining on Route 120...",
+  "I’ve got my pride-and-joy Pokémon\\nwith me. This time, I’ll beat Winona.",
+  "有什么看不见的东西挡在路上。",
+  "有什么看不见的东西挡在路上。{be01}\\n要使用得文侦测镜吗？",
+  "{0100:0}使用得文侦测镜。{be01}\\n看不见的宝可梦\\n现出了原形！{be01}\\n受惊的宝可梦溜掉了！",
+  "这里是茵郁市。\\n“与自然嬉戏的树上城市。”",
+  "“Rejuvenate your tired partners!”\\nPokémon Center",
+  "“Selected items for your convenience!”\\nPokémon Mart",
+  "茵郁市宝可梦道馆\\n馆主：娜琪{be01}\\n“翱翔在世界的\\n鸟宝可梦训练家！”",
+  "没人肯相信我，但我确实在天空中\\n看到了巨大的宝可梦。{be01}\\n它好像在辗转着\\n飞向131号水路。{be01}\\n话说……\\n唔唔……你身上，呃……好像有焦味。{be01}\\n你刚从火山或什么地方来吗？",
+  "树木吸收了渗进地面的雨水，\\n慢慢长大……{be01}\\n我们茵郁市就是在\\n水和土地上建造起来的。",
+  "住在树顶上\\n没什么问题，{be01}\\n但有时虫属性宝可梦会\\n从窗户爬进来，{be00}\\n经常吓人一跳。",
+  "城市中的房子\\n都建在树上。{be01}\\n也许正因这种生活方式，\\n大家都很健康，充满活力。{be01}\\n哈，我也一样——我感觉\\n好像年轻了30岁。",
+  "我听说，有些宝可梦\\n会在交换中进化！"
+ ],
+ "matched": [
+  false,
+  false,
+  true,
+  true,
+  true,
+  true,
+  false,
+  false,
+  true,
+  true,
+  true,
+  true,
+  true,
+  true
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "index": 919,
+ "source": "patched",
+ "lines": [
+  "It’s bright and shiny!\\nBut it’s just trash...",
+  "It’s bright and shiny!\\nBut it’s just trash...",
+  "It’s bright and shiny!\\nBut it’s just trash...",
+  "It’s bright and shiny!\\nBut it’s just trash...",
+  "It’s bright and shiny!\\nBut it’s just trash...",
+  "It’s bright and shiny!\\nBut it’s just trash...",
+  "空的。"
+ ],
+ "matched": [
+  false,
+  false,
+  false,
+  false,
+  false,
+  false,
+  true
+ ]
+}

@@ -1,0 +1,12 @@
+{
+ "index": 820,
+ "source": "patched",
+ "lines": [
+  "Sigh...{be01}\\nI wish I could go on an adventure\\nwith some Pokémon...{be01}\\nCrawl through some damp grass...\\nClimb rocky, rugged mountains...{be01}\\nCross the raging seas...\\nWander about in dark caves...{be01}\\nAnd, sometimes, even get a little\\nhomesick...{be01}\\nIt must be fabulous to travel!",
+  "旅行太美妙了！{be01}\\n我年轻的时候\\n经常去游泳登山！"
+ ],
+ "matched": [
+  false,
+  true
+ ]
+}

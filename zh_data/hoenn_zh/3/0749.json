@@ -1,0 +1,24 @@
+{
+ "index": 749,
+ "source": "patched",
+ "lines": [
+  "…",
+  "唔，原来他们\\n用宝可梦吸引顾客。{be01}\\n嗯，也许我也该为我们的旅馆\\n找一只可爱的宝可梦做吉祥物。{be01}\\n这样就能吸引更多人\\n来我们这里住宿了吧？",
+  "啊，抱歉，抱歉！\\n我看电视看入迷了！{be01}\\n自从海洋队来城里以后，\\n都没什么游客来了。",
+  "喂，别挡着！\\n我看不到电视了！",
+  "Amazing! You’re telling me a Pokémon\\nfound someone’s lost item?{be01}\\nThat’s something. If we had some smart\\nPokémon like that...{be01}\\nWe could recover anything that our\\nguests mislaid...",
+  "Oh, sorry, sorry!\\nI was too involved in watching TV!{be01}\\nI heard that someone busted the\\nTeam Aqua Hideout.{be01}\\nThanks to that, we just booked a\\nreservation from a big group.{be01}\\nIt was a company called... Uh...\\nGame something...",
+  "Amazing! A house-sitting Pokémon\\ncaught a burglar?{be01}\\nThat’s something. If we had a tough\\nPokémon as a security guard...{be01}\\nWe would be able to provide our guests\\nwith greater safety.",
+  "啊，抱歉，抱歉！\\n我看电视看入迷了。{be01}\\n嗯，没错，刚刚来了\\n一个团队的客人，{be01}\\n他们以游戏狂想家之名订的房间，\\n我想他们一定是制作游戏的人。{be01}\\n啊——噢，我得赶紧\\n去准备晚饭了！"
+ ],
+ "matched": [
+  false,
+  true,
+  true,
+  true,
+  false,
+  false,
+  false,
+  true
+ ]
+}

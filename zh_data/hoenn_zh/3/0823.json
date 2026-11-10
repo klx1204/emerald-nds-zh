@@ -1,0 +1,38 @@
+{
+ "index": 823,
+ "source": "patched",
+ "lines": [
+  "辛苦了！\\n这里是宝可梦中心。{be01}\\n在这里可以\\n回复宝可梦的体力。{be01}\\n要让您的宝可梦休息一下吗？",
+  "那么，就交给我吧！",
+  "久等了！{be01}\\n交给我的宝可梦们\\n全都变得精力充沛了哦！",
+  "欢迎下次再来！",
+  "Your Pokémon may be infected with\\nPokérus.{be01}\\nLittle is known about the Pokérus\\nexcept that they are microscopic life-{be00}\\nforms that attach to Pokémon.{be01}\\nWhile infected, Pokémon are said to\\ngrow exceptionally well.",
+  "你好呀，训练家！\\n你的笑容很灿烂。",
+  "Hello there, Trainer!\\nYou’ve got a wonderful smile, there.{be01}\\nI have a hobby - collecting the profiles\\nof Pokémon Trainers.",
+  "电脑上的\\n宝可梦寄放系统……{be01}\\n无论是谁发明的，\\n那人一定是个科学奇人！",
+  "我的宝可梦吃了蓝橘果后，\\n它的体力就恢复了！",
+  "宝可梦分为很多属性。{be01}\\n每种属性对其他属性\\n都有不同的优势和弱点。{be01}\\n由于宝可梦属性的不同，\\n战斗可能会变得更加容易或棘手。",
+  "比如，你的木守宫\\n是草属性。{be01}\\n它对水属性和地面属性时\\n占有优势，{be01}\\n但对火属性宝可梦时\\n则处于劣势。",
+  "比如，你的火稚鸡\\n是火属性。{be01}\\n它对草属性和虫属性时\\n占有优势，{be01}\\n但对水属性宝可梦时\\n则处于劣势。",
+  "比如，你的水跃鱼\\n是水属性。{be01}\\n它对火属性时\\n占有优势，{be01}\\n但对草属性和电属性宝可梦时\\n则处于劣势。",
+  "Pokémon magazines!\\nPokémon Pal...{be01}\\nPokémon Handbook...\\nAdorable Pokémon...",
+  "{0100:0} took a closer look at the\\nHoenn region map."
+ ],
+ "matched": [
+  true,
+  true,
+  true,
+  true,
+  false,
+  true,
+  false,
+  true,
+  true,
+  true,
+  true,
+  true,
+  true,
+  false,
+  false
+ ]
+}

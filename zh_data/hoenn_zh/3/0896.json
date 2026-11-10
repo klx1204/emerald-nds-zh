@@ -1,0 +1,18 @@
+{
+ "index": 896,
+ "source": "patched",
+ "lines": [
+  "…",
+  "我在琉璃市\\n磨练了30年，{be01}\\n制作出了这个强大的招式学习器。\\n我传授给你吧！",
+  "招式学习器31的内容是劈瓦！这是一种\\n无法描述的恐怖招式。",
+  "变隐龙：噗噗噗呀。",
+  "Too bad!\\nThe Bag is full..."
+ ],
+ "matched": [
+  false,
+  true,
+  true,
+  true,
+  false
+ ]
+}

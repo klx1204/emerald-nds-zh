@@ -1,0 +1,38 @@
+{
+ "index": 852,
+ "source": "patched",
+ "lines": [
+  "We’re developing a device for talking\\nwith Pokémon.{be01}\\nBut we haven’t had much success...",
+  "I’m developing new kinds of\\nPoké Balls...{be01}\\nBut I haven’t made much headway...",
+  "我们终于开发出了\\n新型精灵球！{be01}\\n用重复球捕捉曾经\\n捕捉过的宝可梦更容易，{be01}\\n战斗拖得久的话用时间球\\n能很方便捕捉宝可梦。{be01}\\n这都是我们\\n得文公司的发明，{be01}\\n一定要试试啊！",
+  "我开发了宝可导航！{be01}\\n作为一个工程师，能开发出\\n这么伟大的工具是我的幸运！",
+  "哇！\\n那是宝可导航！{be01}\\n因为我们社长想要\\n了解宝可梦的感受，{be00}\\n才会有这东西的构想。{be01}\\n你要我向你详细\\n讲解一下它的功能吗？{be01}\\n啊，不，不，我想你会在试用我们的\\n宝可导航时慢慢摸索出来的。",
+  "I’m trying to develop a device that\\nvisually reproduces the dreams of{be00}\\nPokémon...{be01}\\nBut it’s not going well.",
+  "I’ve been trying to develop a device\\nthat resurrects Pokémon from fossils...{be01}\\nAnd, it’s working!",
+  "Wait! That thing you have there...\\nIs that a Pokémon fossil?{be01}\\nWould you like to bring that Pokémon\\nback to life?{be01}\\nI can with my newly developed\\nFossil Regenerator.",
+  "太好了！\\n我们这就开始。{be01}\\n{0100:0}把{0100:1}\\n交给了得文研究员。",
+  "是吗？{be01}\\n告诉你，得文的技术知识\\n是最优秀的。",
+  "我研发的化石重生器\\n极棒，{be01}\\n但它有个缺点——\\n花的时间太久。{be01}\\n所以，呃……\\n你可以暂时出去转转。",
+  "久等了！{be01}\\n变成化石的宝可梦\\n复活了！{be01}\\n这个化石是一种古代的宝可梦，\\n{0100:2}！",
+  "{0100:0}从得文研究员处得到了\\n{0100:2}。",
+  "Want to give a nickname to the\\n{0100:2} you received?",
+  "噢，你带的宝可梦太多了。\\n已经没有空位了。"
+ ],
+ "matched": [
+  false,
+  false,
+  true,
+  true,
+  true,
+  false,
+  false,
+  false,
+  true,
+  true,
+  true,
+  true,
+  true,
+  false,
+  true
+ ]
+}

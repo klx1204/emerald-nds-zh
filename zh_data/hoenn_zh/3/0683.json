@@ -1,0 +1,12 @@
+{
+ "index": 683,
+ "source": "patched",
+ "lines": [
+  "Ships of this sort are rare, so I’m\\ntaking a look around.{be01}\\nHmhm...\\nThere appear to be other cabins...",
+  "空的。"
+ ],
+ "matched": [
+  false,
+  true
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "index": 813,
+ "source": "patched",
+ "lines": [
+  "一套宝可梦画册。",
+  "This vase looks expensive...\\nPeered inside...{be01}\\nBut, it was empty.",
+  "咳咳！{be01}\\n我是宝可梦发烧友俱乐部的\\n核心成员之一，{be00}\\n会长的弟弟。{be01}\\n我来这里和宝可梦\\n一起度假，就是这样。",
+  "Ah!\\nYour Pokémon...",
+  "It clearly likes you very much.{be01}\\nA Pokémon that adoring and adorable\\ndeserves a TM like this, no?",
+  "Hmm...\\nIt’s not bad, but it’s also not good.{be01}\\nYou, as the Trainer, need to put in\\nsome more effort.",
+  "它似乎充满了敌意。{be01}\\n这样可怕的宝可梦，\\n给它这个招式学习器吧。",
+  "如果宝可梦非常喜欢你，\\n报恩的威力就会增强。{be01}\\n如果它不喜欢你，\\n迁怒的威力则会提升。",
+  "啊，是的，大概{0100:1}天后我能得到\\n一两个不错的招式学习器，{be01}\\n那时再来找我吧，\\n我会给你适合{be00}\\n你的宝可梦的招式学习器。",
+  "露力丽：露莉莉。",
+  "看上去它对训练家\\n非常友好。",
+  "露力丽：露露莉！",
+  "它好像不是很喜欢\\n它的训练家。",
+  "Too bad!\\nThe Bag is full..."
+ ],
+ "matched": [
+  true,
+  false,
+  true,
+  false,
+  false,
+  false,
+  true,
+  true,
+  true,
+  true,
+  true,
+  true,
+  true,
+  false
+ ]
+}

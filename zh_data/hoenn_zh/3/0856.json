@@ -1,0 +1,12 @@
+{
+ "index": 856,
+ "source": "patched",
+ "lines": [
+  "这里是得文公司员工的\\n宿舍楼。",
+  "向尾喵：喵呀呀！"
+ ],
+ "matched": [
+  true,
+  true
+ ]
+}

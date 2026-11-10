@@ -1,0 +1,28 @@
+{
+ "index": 713,
+ "source": "patched",
+ "lines": [
+  "辛苦了！\\n这里是宝可梦中心。{be01}\\n在这里可以\\n回复宝可梦的体力。{be01}\\n要让您的宝可梦休息一下吗？",
+  "那么，就交给我吧！",
+  "久等了！{be01}\\n交给我的宝可梦们\\n全都变得精力充沛了哦！",
+  "欢迎下次再来！",
+  "Your Pokémon may be infected with\\nPokérus.{be01}\\nLittle is known about the Pokérus\\nexcept that they are microscopic life-{be00}\\nforms that attach to Pokémon.{be01}\\nWhile infected, Pokémon are said to\\ngrow exceptionally well.",
+  "穿过冠军之路，\\n宝可梦联盟就在眼前。{be01}\\n已经走了这么远，\\n到底是什么让你坚持到现在？",
+  "漫长而艰苦的冠军之路……{be01}\\n它就像是你人生中\\n所经历的小路……{be01}\\n相信自己的宝可梦并且\\n给予它你的信心！",
+  "Pokémon magazines!\\nPokémon Pal...{be01}\\nPokémon Handbook...\\nAdorable Pokémon...",
+  "{0100:0} took a closer look at the\\nHoenn region map.",
+  "亚希达：{0100:0}，\\n你终于来挑战宝可梦联盟了！{be01}\\n我真为你感到高兴！\\n我的支持没有白费！{be01}\\n{0100:0}，\\n要是你成为了联盟冠军……{be01}\\n那到时我会联系你的。{be01}\\n好了，{0100:0}。\\n去攀登巅峰吧！"
+ ],
+ "matched": [
+  true,
+  true,
+  true,
+  true,
+  false,
+  true,
+  true,
+  false,
+  false,
+  true
+ ]
+}

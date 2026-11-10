@@ -1,0 +1,28 @@
+{
+ "index": 767,
+ "source": "patched",
+ "lines": [
+  "辛苦了！\\n这里是宝可梦中心。{be01}\\n在这里可以\\n回复宝可梦的体力。{be01}\\n要让您的宝可梦休息一下吗？",
+  "那么，就交给我吧！",
+  "久等了！{be01}\\n交给我的宝可梦们\\n全都变得精力充沛了哦！",
+  "欢迎下次再来！",
+  "Your Pokémon may be infected with\\nPokérus.{be01}\\nLittle is known about the Pokérus\\nexcept that they are microscopic life-{be00}\\nforms that attach to Pokémon.{be01}\\nWhile infected, Pokémon are said to\\ngrow exceptionally well.",
+  "I wonder how many kinds of Pokémon\\nthere are in the world?{be01}\\nIt’d be great to cross seas and\\ntrade Pokémon with people far away.",
+  "Those rotten scoundrels who steal\\nPokémon and rip off Meteorites...{be01}\\nI haven’t seen them around recently.",
+  "我听说过那些\\n偷宝可梦抢陨石的{be00}\\n恶徒的事情。",
+  "Pokémon magazines!\\nPokémon Pal...{be01}\\nPokémon Handbook...\\nAdorable Pokémon...",
+  "{0100:0} took a closer look at the\\nHoenn region map."
+ ],
+ "matched": [
+  true,
+  true,
+  true,
+  true,
+  false,
+  false,
+  false,
+  true,
+  false,
+  false
+ ]
+}

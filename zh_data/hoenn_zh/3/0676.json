@@ -1,0 +1,16 @@
+{
+ "index": 676,
+ "source": "patched",
+ "lines": [
+  "是什么的设计图吗？\\n好复杂！",
+  "I’m investigating this ship on behalf\\nof Capt. Stern.{be01}\\nHe also asked me to find a Scanner,\\nbut I haven’t had any success...",
+  "哦！那就是探测器！{be01}\\n听着，你能不能替我把它\\n送给楠木馆长？{be01}\\n我还要对这艘船\\n继续进行一些调查。",
+  "这艘船叫仙人掌号。\\n它似乎有些年头了。"
+ ],
+ "matched": [
+  true,
+  false,
+  true,
+  true
+ ]
+}

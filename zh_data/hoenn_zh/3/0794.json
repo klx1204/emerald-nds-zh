@@ -1,0 +1,16 @@
+{
+ "index": 794,
+ "source": "patched",
+ "lines": [
+  "I’m terribly sorry. The Colosseum\\nis undergoing adjustments.",
+  "I’m terribly sorry. The Trade Center\\nis undergoing inspections.",
+  "I’m terribly sorry. The Record Corner\\nis under preparation.",
+  "如果我一路胜利下去，\\n让大家了解我的强大，{be00}\\n我也会有跟班的！"
+ ],
+ "matched": [
+  false,
+  false,
+  false,
+  true
+ ]
+}

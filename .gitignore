@@ -12,8 +12,13 @@
 work/
 roms/
 out/
+build/
 .venv/
 venv/
+
+# 生成的发布物（保留目录）
+release/*
+!release/.gitkeep
 
 # Python
 __pycache__/

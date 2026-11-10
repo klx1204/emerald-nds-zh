@@ -1,0 +1,26 @@
+{
+ "index": 766,
+ "source": "patched",
+ "lines": [
+  "…",
+  "Uh...\\nOh, yes, I’m the Move Deleter.{be01}\\nI can make Pokémon forget their moves.{be01}\\nWould you like me to do that?",
+  "要选哪只宝可梦哩？",
+  "嗯……于是乎，\\n要忘记哪个招式哩？",
+  "{0100:1} seems to know only one\\nmove...",
+  "{0100:1}的{0100:2}？\\n要忘掉它吗？",
+  "大功告成哩！{be01}\\n{0100:1}忘记了\\n{0100:2}！",
+  "Come again if there are other moves\\nto be forgotten.",
+  "啥？那是蛋呐。\\n什么招式都学不会哟……"
+ ],
+ "matched": [
+  false,
+  false,
+  true,
+  true,
+  false,
+  true,
+  true,
+  false,
+  true
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "index": 722,
+ "source": "patched",
+ "lines": [
+  "辛苦了！\\n这里是宝可梦中心。{be01}\\n在这里可以\\n回复宝可梦的体力。{be01}\\n要让您的宝可梦休息一下吗？",
+  "那么，就交给我吧！",
+  "久等了！{be01}\\n交给我的宝可梦们\\n全都变得精力充沛了哦！",
+  "欢迎下次再来！",
+  "Your Pokémon may be infected with\\nPokérus.{be01}\\nLittle is known about the Pokérus\\nexcept that they are microscopic life-{be00}\\nforms that attach to Pokémon.{be01}\\nWhile infected, Pokémon are said to\\ngrow exceptionally well.",
+  "我想知道很久很久以前\\n宝可梦是什么样子的？{be01}\\n也许住在镇子边上的\\n化石迷知道答案。",
+  "我们在秋叶镇的土地里\\n种下了在火山灰中也能长得{be00}\\n欣欣向荣的大树的幼苗。",
+  "Oh, hello.\\nYou are?{be01}\\nOkay, your name’s {0100:0}.\\nI can see that you’re a Trainer.{be01}\\nSo that means you use the Pokémon\\nStorage System I developed.{be01}\\nHow I arrived at that conclusion is\\na simple deductive process.{be01}\\nYou spoke to me because you wanted\\nto access something on this PC.{be01}\\nOh, I’m sorry. I’m Lanette.{be01}\\nHonestly, I’m glad to meet you - it’s\\ngreat you’re using the Storage System.{be01}\\nIf you could, please visit me at home.\\nMy house is on Route 114.",
+  "Pokémon magazines!\\nPokémon Pal...{be01}\\nPokémon Handbook...\\nAdorable Pokémon...",
+  "{0100:0} took a closer look at the\\nHoenn region map."
+ ],
+ "matched": [
+  true,
+  true,
+  true,
+  true,
+  false,
+  true,
+  true,
+  false,
+  false,
+  false
+ ]
+}

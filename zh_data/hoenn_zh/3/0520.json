@@ -1,0 +1,16 @@
+{
+ "index": 520,
+ "source": "patched",
+ "lines": [
+  "Route 102\\n← Petalburg City",
+  "Route 102\\n→ Oldale Town",
+  "我……不是很高，所以在草丛里\\n走的时候我就被草遮起来了。{be01}\\n草总是戳到我的鼻子里，然后就……\\n阿——阿—阿——阿……{be01}\\n阿嚏！",
+  "我要捉一大堆\\n宝可梦！"
+ ],
+ "matched": [
+  false,
+  false,
+  true,
+  true
+ ]
+}

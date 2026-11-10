@@ -1,0 +1,20 @@
+{
+ "index": 590,
+ "source": "patched",
+ "lines": [
+  "Route 113\\n→ Route 111",
+  "Route 113\\n← Fallarbor Town",
+  "有用的公告牌！{be01}\\n可以将包包中的某个重要物品\\n登录到SELECT键上，{be01}\\n按下SELECT键就可以\\n方便地使用登录的物品了。",
+  "琉璃工坊\\n“将火山灰变成玻璃”",
+  "在布满火山灰的\\n草丛里走真好玩，{be01}\\n回头看看走过的地方——\\n哇，都干干净净了！",
+  "哇哈哈哈！现今的技术\\n真是神奇！{be01}\\n收集这里的火山灰，\\n可以做成玻璃。"
+ ],
+ "matched": [
+  false,
+  false,
+  true,
+  true,
+  true,
+  true
+ ]
+}

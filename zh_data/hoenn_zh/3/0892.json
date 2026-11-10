@@ -1,0 +1,26 @@
+{
+ "index": 892,
+ "source": "patched",
+ "lines": [
+  "季节，天气，\\n月亮在天空中的位置……{be01}\\n这些，还有其他很多东西\\n都会对大海产生影响。{be01}\\n是的！\\n大海就好像生物一样！",
+  "我很容易晕船，\\n所以我只能到这儿来帮忙。",
+  "Umm... If this goes here, and that\\ngoes over there...{be01}\\nThen where does this thing go?\\nAnd what about that doohickey?{be01}\\nAaargh! I can’t make heads or tails\\nof this!",
+  "Hm?\\nHi, I’m Dock.{be01}\\nCapt. Stern commissioned me to\\ndesign a ferry.{be01}\\nOh! That there...\\nAre they Devon Goods?{be01}\\nBut, hmm...\\nThis won’t do...{be01}\\nCapt. Stern went off somewhere.\\nHe said he had some work to do.{be01}\\nCould I get you to go find Capt.\\nStern and deliver that to him?",
+  "津贺：渡轮终于造好了！{be01}\\n这崭新的破浪号是\\n工业技术的奇迹！{be01}\\n但我觉得我们\\n甚至还能做得更好。{be01}\\n要知道，技术的进步\\n永无止境。",
+  "津贺：嗨！哈奇老人\\n也来帮我们的忙了。{be01}\\n多亏了这位资深老水手，\\n渡轮的组装正在顺利进行中。",
+  "津贺：楠木馆长\\n去哪儿了呢？{be01}\\n可以请你帮忙找找楠木馆长，\\n把包裹交给他吗？",
+  "Dock: Shipbuilding is an art.{be01}\\nA lot of things can’t be figured out\\njust by calculating.{be01}\\nI really could use advice from a veteran\\nwho knows the seas...",
+  "哈奇：啊，{0100:0}！\\n好久不见！{be01}\\n自从我遇见了你，\\n我这个老水手又焕发青春啦！{be01}\\n所以我决定来\\n帮津贺造渡轮。{be01}\\n毕竟你看，\\n渡轮上可以载很多人呢。{be01}\\n那个津贺\\n也真不简单。{be01}\\n有他的技术和我的经验，\\n我敢肯定我们一定{be00}\\n能造出一了不起的船！"
+ ],
+ "matched": [
+  true,
+  true,
+  false,
+  false,
+  true,
+  true,
+  true,
+  false,
+  true
+ ]
+}

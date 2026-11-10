@@ -1,0 +1,28 @@
+{
+ "index": 846,
+ "source": "patched",
+ "lines": [
+  "…",
+  "Ahahahaha!\\nWe got meddled with unexpectedly!{be01}\\nWe’re out of options.\\nWe’ll have to pull out.{be01}\\nBut this isn’t the last you’ll see of\\nTeam Aqua! We have other plans!{be00}\\nDon’t you forget it!",
+  "谢谢！\\n多亏你救了我们！{be01}\\n也许作为谢礼有点特别，\\n不过，收下这只宝可梦吧。",
+  "{0100:0}得到了漂浮泡泡！",
+  "这种宝可梦能根据\\n天气状况改变形态。{be01}\\n研究所里面还有不少，\\n这只就给你了。",
+  "嗯？你没有放下这只\\n宝可梦的空间。",
+  "我研究降雨数十年，\\n但如果说想要随心操控天气，\\n简直荒谬至极！",
+  "我在追踪监测丰缘地区的\\n气候状况，{be01}\\n最近，我们发现{0100:1}地区\\n持续异常干旱，{be01}\\n难道说，\\n在{0100:1}附近……",
+  "我在追踪监测丰缘地区的\\n气候状况，{be01}\\n最近，我们发现{0100:1}地区\\n正遭遇特大暴雨，{be01}\\n难道说，\\n在{0100:1}附近……",
+  "最近没再收到异常的\\n气候报告了。{be01}\\n偶然下一场雨才算是\\n自然的恩惠吧。"
+ ],
+ "matched": [
+  false,
+  false,
+  true,
+  true,
+  true,
+  true,
+  true,
+  true,
+  true,
+  true
+ ]
+}
