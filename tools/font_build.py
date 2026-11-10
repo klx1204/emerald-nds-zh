@@ -118,9 +118,10 @@ def add_glyphs(
     written = 0
     for ch in wanted:
         if ttf_font is not None:
-            # 直接渲染 TTF 到 cell：背景 0，笔画 2
+            # B2 的 2bpp：0 透明、1 文字色、2 阴影色、3 背景色。
+            # 笔画必须写 1，写 2 会变成浅灰的阴影色。
             tile = Image.new("P", (cell_w, cell_h), 0)
-            ImageDraw.Draw(tile).text((0, 1), ch, font=ttf_font, fill=2)
+            ImageDraw.Draw(tile).text((0, 1), ch, font=ttf_font, fill=1)
         else:
             code = cmap.get(ch)
             if code is None:
@@ -150,7 +151,8 @@ def add_glyphs(
         y0 = slot // columns * (cell_h + 1) + 1
         for y in range(cell_h):
             for x in range(cell_w):
-                out_px[x0 + x, y0 + y] = tile.getpixel((x, y)) & 0x03
+                # 非零像素一律写成文字色 1，避免 expansion 字库的阴影值 2
+                out_px[x0 + x, y0 + y] = 1 if tile.getpixel((x, y)) else 0
         written += 1
 
     out.save(font_dir / "glyphs.png")
