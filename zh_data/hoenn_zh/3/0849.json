@@ -2,7 +2,7 @@
  "index": 849,
  "source": "patched",
  "lines": [
-  "Wanted item              Trade item\\n Red Shard           ←→ Fire Stone{be01}\\nWanted item              Trade item\\n Yellow Shard     ←→ Thunderstone{be01}\\nWanted item              Trade item\\n Blue Shard         ←→ Water Stone{be01}\\nWanted item              Trade item\\n Green Shard       ←→ Leaf Stone",
+  "Wanted item              Trade item\\n Red Shard           ←→ Fire Stone{be01}\\nWanted item              Trade item\\n Yellow Shard     ←→ Thunderstone{be01}\\nWanted item              Trade item\\n Blue Shard         ←→ Water Stone{be01}\\nWanted item              Trade item\\n Green Shard       ←→ 叶之石",
   "我是水下宝藏寻宝者！{be01}\\n专门潜到深海打捞\\n沉睡在海底的宝物！",
   "告诉我，\\n你见过古代工具的碎片吗？",
   "You haven’t got any treasures\\nfor me...{be01}\\nIf you see any Shards, like the Red\\nShard, you’ve got to trade it with me!",
@@ -13,10 +13,10 @@
   "你还想换别的吗？",
   "啊呀，你的包包满了，\\n清理掉一些东西吧，朋友！",
   "不换吗？真遗憾。\\n好吧，你改变主意的话再来。",
-  "Red Shard",
-  "Yellow Shard",
-  "Blue Shard",
-  "Green Shard",
+  "红色碎片",
+  "黄色碎片",
+  "蓝色碎片",
+  "绿色碎片",
   "Cancel"
  ],
  "matched": [
