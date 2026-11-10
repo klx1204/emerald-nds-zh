@@ -1,0 +1,38 @@
+本项目的代码与补丁数据以 GPL-3.0 分发（见 LICENSE）。
+
+本项目使用的第三方资源如下。它们各自保留原有许可，GPL-3.0 不覆盖这些资源。
+
+1. 中文字库点阵
+   - 来源：rh-hideout-chinese/pokeemerald-expansion
+     https://github.com/rh-hideout-chinese/pokeemerald-expansion
+     graphics/fonts/chinese_normal.png、chinese_small.png、charmap.txt
+   - 性质：民间汉化项目的字库与编码表，版权归原汉化参与者。
+   - 本项目只做格式转换（点阵 → NDS NFTR），不改变字形内容。
+
+2. 中文文本
+   - 来源：rh-hideout-chinese/pokeemerald-expansion（Emerald 中文文本）
+   - 来源：黑2汉化版（ACG汉化组 + 口袋群星SP + 天涯 + Desaix 等）
+   - 性质：民间汉化译文，版权归原汉化参与者；游戏原文版权归
+     Nintendo / Game Freak / Creatures / The Pokémon Company。
+   - 本项目只把译文按文本库索引映射进补丁，不重新分发 ROM。
+
+3. 宝可梦数据
+   - 来源：42arch/pokemon-dataset-zh
+     https://github.com/42arch/pokemon-dataset-zh
+   - 许可：MIT
+
+4. 缺字补充字体
+   - 来源：TakWolf/fusion-pixel-font
+     https://github.com/TakWolf/fusion-pixel-font
+   - 许可：SIL Open Font License 1.1
+   - 说明：由该字体渲染出的字形属于字体修改，按 OFL 1.1 分发。
+
+5. 上游游戏与工具
+   - HoennB2：https://github.com/logdog2325/HoennB2（MIT）
+   - pokebw2：https://github.com/fuddlesworth/pokebw2
+   - pokeemerald：https://github.com/pret/pokeemerald
+   - 游戏内容版权归 Nintendo / Game Freak / Creatures / The Pokémon Company。
+
+6. 本项目不包含
+   - 任何 ROM、ROM 片段、存档或完整游戏文本原文；
+   - 上游 BPS 补丁本身。

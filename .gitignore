@@ -1,0 +1,28 @@
+# ROM / 存档 / 补丁
+*.nds
+*.srm
+*.sav
+*.dsv
+*.bps
+*.ips
+*.xdelta
+*.xzp
+
+# 工作目录
+work/
+roms/
+out/
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# 系统 / 编辑器
+.DS_Store
+*.log
+.idea/
+.vscode/
