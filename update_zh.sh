@@ -57,6 +57,7 @@ echo "构建中文 ROM..."
   --patched "$WORK/patched.nds" \
   --data zh_data \
   --font0 zh_data/font/font0.nftr \
+  --font1 zh_data/font/font1.nftr \
   --font2 zh_data/font/font2.nftr \
   --out "$WORK/zh.nds"
 
