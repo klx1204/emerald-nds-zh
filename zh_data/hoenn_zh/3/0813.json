@@ -4,17 +4,17 @@
  "lines": [
   "一套宝可梦画册。",
   "This vase looks expensive...\\nPeered inside...{be01}\\nBut, it was empty.",
-  "咳咳！{be01}\\n我是宝可梦发烧友俱\\n乐部的核心成员之一\\n，{be00}\\n会长的弟弟。{be01}\\n我来这里和宝可梦一\\n起度假，就是这样。",
+  "咳咳！我是宝可梦发烧友俱乐部的核\\n心成员之一，会长的弟弟。我来这里{be01}\\n和宝可梦一起度假，就是这样。",
   "Ah!\\nYour Pokémon...",
   "It clearly likes you very much.{be01}\\nA Pokémon that adoring and adorable\\ndeserves a TM like this, no?",
   "Hmm...\\nIt’s not bad, but it’s also not good.{be01}\\nYou, as the Trainer, need to put in\\nsome more effort.",
-  "它似乎充满了敌意。{be01}\\n这样可怕的宝可梦，\\n给它这个招式学习器\\n吧。",
-  "如果宝可梦非常喜欢\\n你，报恩的威力就会\\n增强。{be01}\\n如果它不喜欢你，迁\\n怒的威力则会提升。",
-  "啊，是的，大概{0100:1}天后\\n我能得到一两个不错\\n的招式学习器，{be01}\\n那时再来找我吧，我\\n会给你适合{be00}\\n你的宝可梦的招式学\\n习器。",
+  "它似乎充满了敌意。这样可怕的宝可\\n梦，给它这个招式学习器吧。",
+  "如果宝可梦非常喜欢你，报恩的威力\\n就会增强。如果它不喜欢你，迁怒的{be01}\\n威力则会提升。",
+  "啊，是的，大概{0100:1}天后我能得到一两个\\n不错的招式学习器，那时再来找我{be01}\\n吧，我会给你适合你的宝可梦的招式\\n学习器。",
   "露力丽：露莉莉。",
-  "看上去它对训练家非\\n常友好。",
+  "看上去它对训练家非常友好。",
   "露力丽：露露莉！",
-  "它好像不是很喜欢它\\n的训练家。",
+  "它好像不是很喜欢它的训练家。",
   "Too bad!\\nThe Bag is full..."
  ],
  "matched": [

@@ -3,14 +3,14 @@
  "source": "patched",
  "lines": [
   "…",
-  "辛苦了！这里是宝可\\n梦中心。{be01}\\n在这里可以回复宝可\\n梦的体力。{be01}\\n要让您的宝可梦休息\\n一下吗？",
+  "辛苦了！这里是宝可梦中心。在这里\\n可以回复宝可梦的体力。要让您的宝{be01}\\n可梦休息一下吗？",
   "那么，就交给我吧！",
-  "久等了！{be01}\\n交给我的宝可梦们全\\n都变得精力充沛了哦\\n！",
+  "久等了！交给我的宝可梦们全都变得\\n精力充沛了哦！",
   "欢迎下次再来！",
   "Your Pokémon may be infected with\\nPokérus.{be01}\\nLittle is known about the Pokérus\\nexcept that they are microscopic life-{be00}\\nforms that attach to Pokémon.{be01}\\nWhile infected, Pokémon are said to\\ngrow exceptionally well.",
-  "这前面只允许得到了\\n所有道馆徽章的训练\\n家进入。{be01}\\n训练家，请让我们确\\n认一下你是否拥有所\\n有的道馆徽章。",
-  "你还没有获得所有的\\n徽章。{be01}\\n如果你的目标是宝可\\n梦联盟，那你必须全\\n部集齐后再回来。",
-  "训练家！相信自己和\\n你的宝可梦，前进吧\\n！"
+  "这前面只允许得到了所有道馆徽章的\\n训练家进入。训练家，请让我们确认{be01}\\n一下你是否拥有所有的道馆徽章。",
+  "你还没有获得所有的徽章。如果你的\\n目标是宝可梦联盟，那你必须全部集{be01}\\n齐后再回来。",
+  "训练家！相信自己和你的宝可梦，前\\n进吧！"
  ],
  "matched": [
   false,

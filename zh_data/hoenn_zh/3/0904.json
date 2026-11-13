@@ -4,9 +4,9 @@
  "lines": [
   "…",
   "What... What is happening?",
-  "PP提升剂真不错！{be01}\\n它能提升宝可梦招式\\n的PP值。",
+  "PP提升剂真不错！它能提升宝可梦招式\\n的PP值。",
   "This weather...\\nDid something awaken?",
-  "知道全复药吗？{be01}\\n它能完全恢复体力！\\n清除所有异常状态！{be01}\\n简直是梦一样的道具\\n！"
+  "知道全复药吗？它能完全恢复体力！\\n清除所有异常状态！简直是梦一样的{be01}\\n道具！"
  ],
  "matched": [
   false,

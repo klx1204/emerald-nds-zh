@@ -2,14 +2,14 @@
  "index": 740,
  "source": "patched",
  "lines": [
-  "{0100:0}从亚莎那里得到了烈\\n焰徽章。",
-  "有了烈焰徽章，所有\\n等级50以内的宝可梦\\n，{be00}\\n即使是从别人那儿交\\n换得来的{be00}\\n也会完全听你的。{be01}\\n另外，宝可梦也能在\\n对战外使用秘传招式\\n怪力了。{be01}\\n这是我的小小谢礼，\\n请别客气，收下吧！",
-  "那个招式学习器50里\\n装着的是过热，{be01}\\n能对对手造成巨大的\\n伤害。{be01}\\n但同时，使用它的宝\\n可梦特攻会急剧下降\\n。{be00}\\n这个招式不太适合持\\n久战。",
+  "{0100:0}从亚莎那里得到了烈焰徽章。",
+  "有了烈焰徽章，所有等级50以内的宝可\\n梦，即使是从别人那儿交换得来的也{be01}\\n会完全听你的。另外，宝可梦也能在\\n对战外使用秘传招式怪力了。这是我{be01}\\n的小小谢礼，请别客气，收下吧！",
+  "那个招式学习器50里装着的是过热，能\\n对对手造成巨大的伤害。但同时，使{be01}\\n用它的宝可梦特攻会急剧下降。这个\\n招式不太适合持久战。",
   "Your power reminds me of someone...{be01}\\nOh! I know! You battle like Norman,\\nthe Gym Leader of Petalburg.",
   "Hey, how’s it going, Champion-\\nbound {0100:0}?{be01}\\nLavaridge’s Gym Leader Flannery\\nuses Fire-type Pokémon.{be01}\\nHer passion for Pokémon burns stronger\\nand hotter than a volcano.{be01}\\nDon’t get too close to her - you’ll burn!\\nHose her down with water and then{be00}\\ngo for it!",
   "Yow! That was a scorching hot battle!",
   "釜炎镇宝可梦道馆",
-  "釜炎镇宝可梦道馆{be01}\\n亚莎认可的训练家：{0100:0}",
+  "釜炎镇宝可梦道馆亚莎认可的训练\\n家：{0100:0}",
   "Too bad!\\nThe Bag is full..."
  ],
  "matched": [

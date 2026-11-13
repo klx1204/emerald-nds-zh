@@ -3,13 +3,13 @@
  "source": "patched",
  "lines": [
   "…",
-  "唔，原来他们用宝可\\n梦吸引顾客。{be01}\\n嗯，也许我也该为我\\n们的旅馆找一只可爱\\n的宝可梦做吉祥物。{be01}\\n这样就能吸引更多人\\n来我们这里住宿了吧\\n？",
-  "啊，抱歉，抱歉！我\\n看电视看入迷了！{be01}\\n自从海洋队来城里以\\n后，都没什么游客来\\n了。",
-  "喂，别挡着！我看不\\n到电视了！",
+  "唔，原来他们用宝可梦吸引顾客。\\n嗯，也许我也该为我们的旅馆找一只{be01}\\n可爱的宝可梦做吉祥物。这样就能吸\\n引更多人来我们这里住宿了吧？",
+  "啊，抱歉，抱歉！我看电视看入迷\\n了！自从海洋队来城里以后，都没什{be01}\\n么游客来了。",
+  "喂，别挡着！我看不到电视了！",
   "Amazing! You’re telling me a Pokémon\\nfound someone’s lost item?{be01}\\nThat’s something. If we had some smart\\nPokémon like that...{be01}\\nWe could recover anything that our\\nguests mislaid...",
   "Oh, sorry, sorry!\\nI was too involved in watching TV!{be01}\\nI heard that someone busted the\\nTeam Aqua Hideout.{be01}\\nThanks to that, we just booked a\\nreservation from a big group.{be01}\\nIt was a company called... Uh...\\nGame something...",
   "Amazing! A house-sitting Pokémon\\ncaught a burglar?{be01}\\nThat’s something. If we had a tough\\nPokémon as a security guard...{be01}\\nWe would be able to provide our guests\\nwith greater safety.",
-  "啊，抱歉，抱歉！我\\n看电视看入迷了。{be01}\\n嗯，没错，刚刚来了\\n一个团队的客人，{be01}\\n他们以游戏狂想家之\\n名订的房间，我想他\\n们一定是制作游戏的\\n人。{be01}\\n啊——噢，我得赶紧去\\n准备晚饭了！"
+  "啊，抱歉，抱歉！我看电视看入迷\\n了。嗯，没错，刚刚来了一个团队的{be01}\\n客人，他们以游戏狂想家之名订的房\\n间，我想他们一定是制作游戏的人。{be01}\\n啊——噢，我得赶紧去准备晚饭了！"
  ],
  "matched": [
   false,

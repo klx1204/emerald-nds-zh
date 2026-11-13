@@ -2,9 +2,9 @@
  "index": 911,
  "source": "patched",
  "lines": [
-  "无论什么宝可梦比赛\\n，特攻强化都至关重\\n要。{be01}\\n它能提升某些招式的\\n威力，但只在一场战\\n斗中有效。",
+  "无论什么宝可梦比赛，特攻强化都至\\n关重要。它能提升某些招式的威力，{be01}\\n但只在一场战斗中有效。",
   "They don’t sell any items that will let\\nyou win Contests...{be01}\\nIt means you have to raise Pokémon\\ndiligently on an everyday basis.",
-  "巢穴球对弱小的宝可\\n梦非常管用，{be01}\\n只有在绿茵镇这里才\\n能买到。"
+  "巢穴球对弱小的宝可梦非常管用，只\\n有在绿茵镇这里才能买到。"
  ],
  "matched": [
   true,

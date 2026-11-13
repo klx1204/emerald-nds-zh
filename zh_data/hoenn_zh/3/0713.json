@@ -2,16 +2,16 @@
  "index": 713,
  "source": "patched",
  "lines": [
-  "辛苦了！这里是宝可\\n梦中心。{be01}\\n在这里可以回复宝可\\n梦的体力。{be01}\\n要让您的宝可梦休息\\n一下吗？",
+  "辛苦了！这里是宝可梦中心。在这里\\n可以回复宝可梦的体力。要让您的宝{be01}\\n可梦休息一下吗？",
   "那么，就交给我吧！",
-  "久等了！{be01}\\n交给我的宝可梦们全\\n都变得精力充沛了哦\\n！",
+  "久等了！交给我的宝可梦们全都变得\\n精力充沛了哦！",
   "欢迎下次再来！",
   "Your Pokémon may be infected with\\nPokérus.{be01}\\nLittle is known about the Pokérus\\nexcept that they are microscopic life-{be00}\\nforms that attach to Pokémon.{be01}\\nWhile infected, Pokémon are said to\\ngrow exceptionally well.",
-  "穿过冠军之路，宝可\\n梦联盟就在眼前。{be01}\\n已经走了这么远，到\\n底是什么让你坚持到\\n现在？",
-  "漫长而艰苦的冠军之\\n路……{be01}\\n它就像是你人生中所\\n经历的小路……{be01}\\n相信自己的宝可梦并\\n且给予它你的信心！",
+  "穿过冠军之路，宝可梦联盟就在眼\\n前。已经走了这么远，到底是什么让{be01}\\n你坚持到现在？",
+  "漫长而艰苦的冠军之路……它就像是你人\\n生中所经历的小路……相信自己的宝可梦{be01}\\n并且给予它你的信心！",
   "Pokémon magazines!\\nPokémon Pal...{be01}\\nPokémon Handbook...\\nAdorable Pokémon...",
   "{0100:0} took a closer look at the\\nHoenn region map.",
-  "亚希达：{0100:0}，你终于来\\n挑战宝可梦联盟了！{be01}\\n我真为你感到高兴！\\n我的支持没有白费！{be01}\\n{0100:0}，要是你成为了联盟\\n冠军……{be01}\\n那到时我会联系你的\\n。{be01}\\n好了，{0100:0}。去攀登巅峰\\n吧！"
+  "亚希达：{0100:0}，你终于来挑战宝可梦联盟\\n了！我真为你感到高兴！我的支持没{be01}\\n有白费！{0100:0}，要是你成为了联盟冠军……那\\n到时我会联系你的。好了，{0100:0}。去攀登{be01}\\n巅峰吧！"
  ],
  "matched": [
   true,

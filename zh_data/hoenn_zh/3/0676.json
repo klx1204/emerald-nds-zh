@@ -2,10 +2,10 @@
  "index": 676,
  "source": "patched",
  "lines": [
-  "是什么的设计图吗？\\n好复杂！",
+  "是什么的设计图吗？好复杂！",
   "I’m investigating this ship on behalf\\nof Capt. Stern.{be01}\\nHe also asked me to find a Scanner,\\nbut I haven’t had any success...",
-  "哦！那就是探测器！{be01}\\n听着，你能不能替我\\n把它送给楠木馆长？{be01}\\n我还要对这艘船继续\\n进行一些调查。",
-  "这艘船叫仙人掌号。\\n它似乎有些年头了。"
+  "哦！那就是探测器！听着，你能不能\\n替我把它送给楠木馆长？我还要对这{be01}\\n艘船继续进行一些调查。",
+  "这艘船叫仙人掌号。它似乎有些年头\\n了。"
  ],
  "matched": [
   true,

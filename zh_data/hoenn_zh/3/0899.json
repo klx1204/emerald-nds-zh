@@ -2,9 +2,9 @@
  "index": 899,
  "source": "patched",
  "lines": [
-  "听着，我要告诉你一\\n些好事。{be01}\\n据说这附近的海里有\\n一座古代遗迹，{be01}\\n那里面一定有等待被\\n发掘的宝藏。",
+  "听着，我要告诉你一些好事。据说这\\n附近的海里有一座古代遗迹，那里面{be01}\\n一定有等待被发掘的宝藏。",
   "Ancient treasures...{be01}\\nIt would be nice if they existed, but\\neven if they didn’t, it would be so{be00}\\nbeautiful to take an underwater{be00}\\nstroll with my Pokémon.",
-  "玛力露丽：马鹿马鹿\\n。"
+  "玛力露丽：马鹿马鹿。"
  ],
  "matched": [
   true,

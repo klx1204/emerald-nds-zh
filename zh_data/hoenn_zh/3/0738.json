@@ -5,10 +5,10 @@
   "That device you have there...\\nIt’s a PokéNav.{be01}\\nWhen Trainers that have PokéNavs\\nbattle, it keeps a record of how{be00}\\nthings went, I think.{be01}\\nOh, pardon me.\\nMy name is Steven.{be01}\\nI’m interested in rare stones, so\\nI travel here and there.{be01}\\nOh?\\nA Letter for me?",
   "{0100:0} handed over the\\n{0100:1}.",
   "Steven: Okay, thank you.{be01}\\nYou went through all this trouble to\\ndeliver that. I need to thank you.{be01}\\nLet me see...\\nI’ll give you this TM.{be01}\\nIt contains my favorite move,\\nSteel Wing.",
-  "大吾：你的宝可梦看\\n起来培养得很不错。{be01}\\n继续努力的话，也许\\n有一天能成为宝可梦\\n联盟的冠军呢。{be00}\\n我是这么想的喔。{be01}\\n对了！既然有缘相识\\n，就在宝可导航里{be00}\\n互相登录一下吧。{be01}\\n…… …… ……",
+  "大吾：你的宝可梦看起来培养得很不\\n错。继续努力的话，也许有一天能成{be01}\\n为宝可梦联盟的冠军呢。我是这么想\\n的喔。对了！既然有缘相识，就在宝{be01}\\n可导航里互相登录一下吧。…… …… ……",
   "Oh, your Bag is full...\\nThat’s too bad, then.",
-  "把大吾登记到宝可导\\n航里了。",
-  "好了，那我先走一步\\n了。"
+  "把大吾登记到宝可导航里了。",
+  "好了，那我先走一步了。"
  ],
  "matched": [
   false,

@@ -3,7 +3,7 @@
  "source": "patched",
  "lines": [
   "This planet’s biggest mysteries are\\nat the bottom of the sea.{be01}\\nSomebody said that, but I don’t know...",
-  "绿岭市和琉璃市之间\\n有个极深的海沟。{be01}\\n这是我从别人那儿听\\n说的。"
+  "绿岭市和琉璃市之间有个极深的海\\n沟。这是我从别人那儿听说的。"
  ],
  "matched": [
   false,

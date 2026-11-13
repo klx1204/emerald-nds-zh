@@ -2,15 +2,15 @@
  "index": 892,
  "source": "patched",
  "lines": [
-  "季节，天气，月亮在\\n天空中的位置……{be01}\\n这些，还有其他很多\\n东西都会对大海产生\\n影响。{be01}\\n是的！大海就好像生\\n物一样！",
-  "我很容易晕船，所以\\n我只能到这儿来帮忙\\n。",
+  "季节，天气，月亮在天空中的位置……这\\n些，还有其他很多东西都会对大海产{be01}\\n生影响。是的！大海就好像生物一\\n样！",
+  "我很容易晕船，所以我只能到这儿来\\n帮忙。",
   "Umm... If this goes here, and that\\ngoes over there...{be01}\\nThen where does this thing go?\\nAnd what about that doohickey?{be01}\\nAaargh! I can’t make heads or tails\\nof this!",
   "Hm?\\nHi, I’m Dock.{be01}\\nCapt. Stern commissioned me to\\ndesign a ferry.{be01}\\nOh! That there...\\nAre they Devon Goods?{be01}\\nBut, hmm...\\nThis won’t do...{be01}\\nCapt. Stern went off somewhere.\\nHe said he had some work to do.{be01}\\nCould I get you to go find Capt.\\nStern and deliver that to him?",
-  "津贺：渡轮终于造好\\n了！{be01}\\n这崭新的破浪号是工\\n业技术的奇迹！{be01}\\n但我觉得我们甚至还\\n能做得更好。{be01}\\n要知道，技术的进步\\n永无止境。",
-  "津贺：嗨！哈奇老人\\n也来帮我们的忙了。{be01}\\n多亏了这位资深老水\\n手，渡轮的组装正在\\n顺利进行中。",
-  "津贺：楠木馆长去哪\\n儿了呢？{be01}\\n可以请你帮忙找找楠\\n木馆长，把包裹交给\\n他吗？",
+  "津贺：渡轮终于造好了！这崭新的破\\n浪号是工业技术的奇迹！但我觉得我{be01}\\n们甚至还能做得更好。要知道，技术\\n的进步永无止境。",
+  "津贺：嗨！哈奇老人也来帮我们的忙\\n了。多亏了这位资深老水手，渡轮的{be01}\\n组装正在顺利进行中。",
+  "津贺：楠木馆长去哪儿了呢？可以请\\n你帮忙找找楠木馆长，把包裹交给他{be01}\\n吗？",
   "Dock: Shipbuilding is an art.{be01}\\nA lot of things can’t be figured out\\njust by calculating.{be01}\\nI really could use advice from a veteran\\nwho knows the seas...",
-  "哈奇：啊，{0100:0}！好久不\\n见！{be01}\\n自从我遇见了你，我\\n这个老水手又焕发青\\n春啦！{be01}\\n所以我决定来帮津贺\\n造渡轮。{be01}\\n毕竟你看，渡轮上可\\n以载很多人呢。{be01}\\n那个津贺也真不简单\\n。{be01}\\n有他的技术和我的经\\n验，我敢肯定我们一\\n定{be00}\\n能造出一了不起的船\\n！"
+  "哈奇：啊，{0100:0}！好久不见！自从我遇见\\n了你，我这个老水手又焕发青春啦！{be01}\\n所以我决定来帮津贺造渡轮。毕竟你\\n看，渡轮上可以载很多人呢。那个津{be01}\\n贺也真不简单。有他的技术和我的经\\n验，我敢肯定我们一定能造出一了不{be01}\\n起的船！"
  ],
  "matched": [
   true,

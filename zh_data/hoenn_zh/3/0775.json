@@ -3,15 +3,15 @@
  "source": "patched",
  "lines": [
   "…",
-  "{0100:0}从铁旋那里得到了电\\n力徽章。",
+  "{0100:0}从铁旋那里得到了电力徽章。",
   "With the Dynamo Badge, Pokémon can\\nuse Rock Smash out of battle.{be01}\\nAnd, it will make your Pokémon a little\\nbit faster, too.{be01}\\nHmm...\\nYou should take this, too!",
   "That TM101 there contains Shock Wave.{be01}\\nIt’s a trustworthy move that never\\nmisses! You can count on it!",
-  "能看到像你这样前途\\n无量的年轻训练家，\\n我真高兴呀！",
-  "哇哈哈哈！年轻人，\\n向前进，努力吧！",
-  "嗨，怎么样，向冠军\\n的目标冲刺的{0100:0}？{be01}\\n紫堇市道馆的馆主铁\\n旋使用电属性宝可梦\\n。{be01}\\n如果用水属性宝可梦\\n挑战他，会被他电麻\\n的！吱——{be01}\\n还有，他在自己的道\\n馆里设置了一大堆由\\n开关控制的电子屏障\\n！怪人！{be01}\\n好了，加油吧！",
-  "哇，真让人吃惊！你\\n打开了屏障！",
+  "能看到像你这样前途无量的年轻训练\\n家，我真高兴呀！",
+  "哇哈哈哈！年轻人，向前进，努力\\n吧！",
+  "嗨，怎么样，向冠军的目标冲刺的{0100:0}？\\n紫堇市道馆的馆主铁旋使用电属性宝{be01}\\n可梦。如果用水属性宝可梦挑战他，\\n会被他电麻的！吱——还有，他在自己的{be01}\\n道馆里设置了一大堆由开关控制的电\\n子屏障！怪人！好了，加油吧！",
+  "哇，真让人吃惊！你打开了屏障！",
   "紫堇市宝可梦道馆",
-  "紫堇市宝可梦道馆{be01}\\n铁旋认可的训练家：{0100:0}",
+  "紫堇市宝可梦道馆铁旋认可的训练\\n家：{0100:0}",
   "Too bad!\\nThe Bag is full..."
  ],
  "matched": [

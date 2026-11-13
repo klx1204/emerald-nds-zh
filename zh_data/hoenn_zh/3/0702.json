@@ -2,13 +2,13 @@
  "index": 702,
  "source": "patched",
  "lines": [
-  "辛苦了！这里是宝可\\n梦中心。{be01}\\n在这里可以回复宝可\\n梦的体力。{be01}\\n要让您的宝可梦休息\\n一下吗？",
+  "辛苦了！这里是宝可梦中心。在这里\\n可以回复宝可梦的体力。要让您的宝{be01}\\n可梦休息一下吗？",
   "那么，就交给我吧！",
-  "久等了！{be01}\\n交给我的宝可梦们全\\n都变得精力充沛了哦\\n！",
+  "久等了！交给我的宝可梦们全都变得\\n精力充沛了哦！",
   "欢迎下次再来！",
   "Your Pokémon may be infected with\\nPokérus.{be01}\\nLittle is known about the Pokérus\\nexcept that they are microscopic life-{be00}\\nforms that attach to Pokémon.{be01}\\nWhile infected, Pokémon are said to\\ngrow exceptionally well.",
-  "镇子边上有个石窟。{be01}\\n据说那里面能找到稀\\n有的石头。",
-  "即使宝可梦昏厥不能\\n战斗了，它也仍然可\\n以使用秘传招式。",
+  "镇子边上有个石窟。据说那里面能找\\n到稀有的石头。",
+  "即使宝可梦昏厥不能战斗了，它也仍\\n然可以使用秘传招式。",
   "Pokémon magazines!\\nPokémon Pal...{be01}\\nPokémon Handbook...\\nAdorable Pokémon...",
   "{0100:0} took a closer look at the\\nHoenn region map."
  ],

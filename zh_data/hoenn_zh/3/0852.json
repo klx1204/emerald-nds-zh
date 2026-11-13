@@ -4,19 +4,19 @@
  "lines": [
   "We’re developing a device for talking\\nwith Pokémon.{be01}\\nBut we haven’t had much success...",
   "I’m developing new kinds of\\nPoké Balls...{be01}\\nBut I haven’t made much headway...",
-  "我们终于开发出了新\\n型精灵球！{be01}\\n用重复球捕捉曾经捕\\n捉过的宝可梦更容易\\n，{be01}\\n战斗拖得久的话用时\\n间球能很方便捕捉宝\\n可梦。{be01}\\n这都是我们得文公司\\n的发明，{be01}\\n一定要试试啊！",
-  "我开发了宝可导航！{be01}\\n作为一个工程师，能\\n开发出这么伟大的工\\n具是我的幸运！",
-  "哇！那是宝可导航！{be01}\\n因为我们社长想要了\\n解宝可梦的感受，{be00}\\n才会有这东西的构想\\n。{be01}\\n你要我向你详细讲解\\n一下它的功能吗？{be01}\\n啊，不，不，我想你\\n会在试用我们的宝可\\n导航时慢慢摸索出来\\n的。",
+  "我们终于开发出了新型精灵球！用重\\n复球捕捉曾经捕捉过的宝可梦更容{be01}\\n易，战斗拖得久的话用时间球能很方\\n便捕捉宝可梦。这都是我们得文公司{be01}\\n的发明，一定要试试啊！",
+  "我开发了宝可导航！作为一个工程\\n师，能开发出这么伟大的工具是我的{be01}\\n幸运！",
+  "哇！那是宝可导航！因为我们社长想\\n要了解宝可梦的感受，才会有这东西{be01}\\n的构想。你要我向你详细讲解一下它\\n的功能吗？啊，不，不，我想你会在{be01}\\n试用我们的宝可导航时慢慢摸索出来\\n的。",
   "I’m trying to develop a device that\\nvisually reproduces the dreams of{be00}\\nPokémon...{be01}\\nBut it’s not going well.",
   "I’ve been trying to develop a device\\nthat resurrects Pokémon from fossils...{be01}\\nAnd, it’s working!",
   "Wait! That thing you have there...\\nIs that a Pokémon fossil?{be01}\\nWould you like to bring that Pokémon\\nback to life?{be01}\\nI can with my newly developed\\nFossil Regenerator.",
-  "太好了！我们这就开\\n始。{be01}\\n{0100:0}把{0100:1}交给了得文研究员\\n。",
-  "是吗？{be01}\\n告诉你，得文的技术\\n知识是最优秀的。",
-  "我研发的化石重生器\\n极棒，{be01}\\n但它有个缺点——花的\\n时间太久。{be01}\\n所以，呃……你可以暂\\n时出去转转。",
-  "久等了！{be01}\\n变成化石的宝可梦复\\n活了！{be01}\\n这个化石是一种古代\\n的宝可梦，{0100:2}！",
-  "{0100:0}从得文研究员处得到\\n了{0100:2}。",
+  "太好了！我们这就开始。{0100:0}把{0100:1}交给了得\\n文研究员。",
+  "是吗？告诉你，得文的技术知识是最\\n优秀的。",
+  "我研发的化石重生器极棒，但它有个\\n缺点——花的时间太久。所以，呃……你可{be01}\\n以暂时出去转转。",
+  "久等了！变成化石的宝可梦复活了！\\n这个化石是一种古代的宝可梦，{0100:2}！",
+  "{0100:0}从得文研究员处得到了{0100:2}。",
   "Want to give a nickname to the\\n{0100:2} you received?",
-  "噢，你带的宝可梦太\\n多了。已经没有空位\\n了。"
+  "噢，你带的宝可梦太多了。已经没有\\n空位了。"
  ],
  "matched": [
   false,

@@ -3,11 +3,11 @@
  "source": "patched",
  "lines": [
   "Route 101\\n↑ Oldale Town",
-  "宝可梦累了的话，就\\n要带它们去宝可梦中\\n心。{be01}\\n附近的古玫镇里就有\\n个宝可梦中心。",
-  "在草丛中行走时野生\\n宝可梦有可能跳出来\\n袭击。{be01}\\n如果想捕捉宝可梦的\\n话，就得去草丛里寻\\n找。",
+  "宝可梦累了的话，就要带它们去宝可\\n梦中心。附近的古玫镇里就有个宝可{be01}\\n梦中心。",
+  "在草丛中行走时野生宝可梦有可能跳\\n出来袭击。如果想捕捉宝可梦的话，{be01}\\n就得去草丛里寻找。",
   "救、救命——！！",
-  "喂！那边的你！拜托\\n！救救我！{be01}\\n在那边的包里面里面\\n有精灵球！",
-  "你、你要去哪儿？！\\n别丢下我啊——！",
+  "喂！那边的你！拜托！救救我！在那\\n边的包里面里面有精灵球！",
+  "你、你要去哪儿？！别丢下我啊——！",
   "Prof. Birch: Whew...{be01}\\nI was in the tall grass studying wild\\nPokémon when I was jumped.{be01}\\nYou saved me.\\nThanks a lot!{be01}\\nOh?{be01}\\nHi, you’re {0100:0}!{be01}\\nThis is not the place to chat, so come\\nby my Pokémon Lab later, okay?"
  ],
  "matched": [

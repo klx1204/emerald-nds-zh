@@ -2,7 +2,7 @@
  "index": 885,
  "source": "patched",
  "lines": [
-  "我的宝可梦是急躁性\\n格。{be01}\\n比起我的其它宝可梦\\n，它的速度比较快。{be01}\\n也许宝可梦的性格也\\n会影响到它们的成长\\n。",
+  "我的宝可梦是急躁性格。比起我的其\\n它宝可梦，它的速度比较快。也许宝{be01}\\n可梦的性格也会影响到它们的成长。",
   "You need a Contest Pass to enter a\\nContest.{be01}\\nIt’s easy to get. They give it to\\nanyone who has Pokémon.",
   "Oh, a Contest Pass!\\nYou’re going to be a contestant?"
  ],

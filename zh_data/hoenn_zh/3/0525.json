@@ -7,10 +7,10 @@
   "May: I think I know why my dad has an\\neye out for you now.{be01}\\nI mean, you just got that Pokémon but\\nit already likes you.{be01}\\nYou might be able to befriend any\\nkind of Pokémon easily.{be01}\\nWell, it’s time to head back to the\\nLab.",
   "Brendan: Okay, so it’s this one and\\nthat one that live on Route 103...",
   "Hey, it’s {0100:0}!{be01}\\n...Oh, yeah, Dad gave you a Pokémon.{be01}\\nSince we’re here, how about a little\\nbattle?{be01}\\nI’ll teach you what being a Trainer’s\\nabout!",
-  "小悠：我明白了……难\\n怪爸爸会对你青睐有\\n加。{be01}\\n看，你刚拿到的宝可\\n梦就已经这么亲近你\\n了。{be01}\\n{0100:0}，我想你说不定能和\\n任何宝可梦都成为朋\\n友呢！{be01}\\n我们先回研究所吧！",
+  "小悠：我明白了……难怪爸爸会对你青睐\\n有加。看，你刚拿到的宝可梦就已经{be01}\\n这么亲近你了。{0100:0}，我想你说不定能和\\n任何宝可梦都成为朋友呢！我们先回{be01}\\n研究所吧！",
   "Route 103\\n↓ Oldale Town",
-  "如果从这儿渡海，就\\n能到达古玫镇。{be01}\\n呵呵呵，这条捷径会\\n派上不少用场的。",
-  "我的宝可梦已经很累\\n了……我本该买点伤药\\n的……"
+  "如果从这儿渡海，就能到达古玫镇。\\n呵呵呵，这条捷径会派上不少用场{be01}\\n的。",
+  "我的宝可梦已经很累了……我本该买点伤\\n药的……"
  ],
  "matched": [
   false,

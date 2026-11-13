@@ -2,13 +2,13 @@
  "index": 733,
  "source": "patched",
  "lines": [
-  "辛苦了！这里是宝可\\n梦中心。{be01}\\n在这里可以回复宝可\\n梦的体力。{be01}\\n要让您的宝可梦休息\\n一下吗？",
+  "辛苦了！这里是宝可梦中心。在这里\\n可以回复宝可梦的体力。要让您的宝{be01}\\n可梦休息一下吗？",
   "那么，就交给我吧！",
-  "久等了！{be01}\\n交给我的宝可梦们全\\n都变得精力充沛了哦\\n！",
+  "久等了！交给我的宝可梦们全都变得\\n精力充沛了哦！",
   "欢迎下次再来！",
   "Your Pokémon may be infected with\\nPokérus.{be01}\\nLittle is known about the Pokérus\\nexcept that they are microscopic life-{be00}\\nforms that attach to Pokémon.{be01}\\nWhile infected, Pokémon are said to\\ngrow exceptionally well.",
   "Listen, kid, are you working\\non a Pokédex?{be01}\\nHmm... Go to the Safari Zone.\\nThat’s my suggestion.",
-  "你去过记录角吗？{be01}\\n那里超有意思的，可\\n以混合训练家的记录\\n。{be01}\\n虽然搞不懂具体原理\\n，但它很棒，甚至令\\n人吃惊！",
+  "你去过记录角吗？那里超有意思的，\\n可以混合训练家的记录。虽然搞不懂{be01}\\n具体原理，但它很棒，甚至令人吃\\n惊！",
   "Hey, you’ve got a PokéNav!\\nIt’s the same as mine.{be01}\\nCheck out the Trainer’s Eyes on it.{be01}\\nIt shows you Trainers who want a\\nrematch with you.{be01}\\nIsn’t it great?\\nYou have to hand it to Devon!",
   "Pokémon magazines!\\nPokémon Pal...{be01}\\nPokémon Handbook...\\nAdorable Pokémon...",
   "{0100:0} took a closer look at the\\nHoenn region map."

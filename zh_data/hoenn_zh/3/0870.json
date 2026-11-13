@@ -2,13 +2,13 @@
  "index": 870,
  "source": "patched",
  "lines": [
-  "你要向深处去吗？{be01}\\n那么帮我收集一些浅\\n滩海盐和浅滩贝壳怎\\n么样？{be01}\\n如果有足够的材料的\\n话，我可以帮你制作\\n点好东西。",
+  "你要向深处去吗？那么帮我收集一些\\n浅滩海盐和浅滩贝壳怎么样？如果有{be01}\\n足够的材料的话，我可以帮你制作点\\n好东西。",
   "If you bring me four each of the\\nShoal Salt and Shoal Shells,{be00}\\nI can make you a Shell Bell...{be01}\\nYou can get those ingredients\\nevery day.",
-  "啊，是浅滩海盐和浅\\n滩贝壳！数量足够了\\n！{be01}\\n想要把它们做成贝壳\\n之铃吗？",
+  "啊，是浅滩海盐和浅滩贝壳！数量足\\n够了！想要把它们做成贝壳之铃吗？",
   "All righty, then! I’ll make you a\\nShell Bell right away.{be01}\\n... ... ... ... ... ... ... ...\\n... ... ... ... ... ... ... ...{be01}\\nThere! Done!",
   "Have a Pokémon hold on to that.\\nIt’ll love it, that’s for certain.{be01}\\nWhy, the Shell Bell’s chime...\\nIt’s simply sublime!{be01}\\nYou can get its ingredients every\\nday, so I can make you more.",
   "Oh... Is that so...\\nI wanted to make a Shell Bell...",
-  "如果我做好了的话你\\n的包包里就没有空间\\n了，{be01}\\n腾出些地方再回来吧\\n。",
+  "如果我做好了的话你的包包里就没有\\n空间了，腾出些地方再回来吧。",
   "Too bad!\\nThe Bag is full..."
  ],
  "matched": [

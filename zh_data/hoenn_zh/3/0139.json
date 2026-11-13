@@ -2,18 +2,18 @@
  "index": 139,
  "source": "patched",
  "lines": [
-  "爸爸告诉我，这隧道\\n里全是胆小的宝可梦\\n。{be01}\\n它们听到巨响就会受\\n惊，引发大骚乱。{be01}\\n所以大型隧道工程被\\n迫中止了。{be01}\\n但有个男人还在独自\\n挖掘！",
-  "听说那人挖隧道是为\\n了心爱的姑娘。{be01}\\n虽然不太懂，但真浪\\n漫啊！",
+  "爸爸告诉我，这隧道里全是胆小的宝\\n可梦。它们听到巨响就会受惊，引发{be01}\\n大骚乱。所以大型隧道工程被迫中止\\n了。但有个男人还在独自挖掘！",
+  "听说那人挖隧道是为了心爱的姑娘。\\n虽然不太懂，但真浪漫啊！",
   "Did you see the cave next to the\\nPokémon Mart?{be01}\\nThere’s a guy in there who’s trying to\\nbust up boulders so he can bust out{be00}\\nthrough to the other side.{be01}\\nIt’d be great if we could go through...\\nIt’ll make it easy to visit Rustboro.",
   "That cave next to the Pokémon Mart\\nis now a tunnel to the other side.{be01}\\nIt’s great - it’s easy to go shop for new\\nDevon products in Rustboro now.",
   "“Selected items for your convenience!”\\nPokémon Mart",
-  "这里是绿茵镇。“带\\n有青草气息的风吹高\\n原。”",
+  "这里是绿茵镇。“带有青草气息的风吹\\n高原。”",
   "“Rejuvenate your tired partners!”\\nPokémon Center",
   "满盈的家",
-  "对战帐篷绿茵镇分址\\n“精彩对战，尽收眼\\n底！”",
-  "卡绿隧道“连接卡那\\n兹市和绿茵镇的隧道{be01}\\n隧道工程现已终止施\\n工”",
-  "因风向关系，火山灰\\n永远吹不到这里，{be01}\\n所以这里空气非常清\\n新。住在这里，就算\\n是体弱多病的人{be00}\\n也可能有奇迹般的好\\n转。",
-  "我和宝可梦最近连胜\\n不断，决定在绿茵镇\\n的对战帐篷首秀！"
+  "对战帐篷绿茵镇分址“精彩对战，尽收\\n眼底！”",
+  "卡绿隧道“连接卡那兹市和绿茵镇的隧\\n道隧道工程现已终止施工”",
+  "因风向关系，火山灰永远吹不到这\\n里，所以这里空气非常清新。住在这{be01}\\n里，就算是体弱多病的人也可能有奇\\n迹般的好转。",
+  "我和宝可梦最近连胜不断，决定在绿\\n茵镇的对战帐篷首秀！"
  ],
  "matched": [
   true,

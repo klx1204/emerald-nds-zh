@@ -2,7 +2,7 @@
  "index": 782,
  "source": "patched",
  "lines": [
-  "这里是秋叶镇。“有\\n着小型田野的农村。\\n”"
+  "这里是秋叶镇。“有着小型田野的农\\n村。”"
  ],
  "matched": [
   true
