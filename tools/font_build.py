@@ -65,6 +65,10 @@ def add_glyphs(
     replace: bool = True,
     ttf: Path | None = None,
     ttf_size: int | None = None,
+    cjk_only: bool = False,
+    shadow: str = "right",
+    y_offset: int = 1,
+    append: bool = True,
 ) -> int:
     font = json.loads((font_dir / "font.json").read_text(encoding="utf-8"))
     font.pop("$schema", None)
@@ -72,6 +76,12 @@ def add_glyphs(
 
     position = {glyph["char"]: i for i, glyph in enumerate(font["glyphs"])}
     wanted = list(dict.fromkeys(chars))
+    if cjk_only:
+        # 只覆盖汉字，保留 B2 原有的窄标点/符号
+        wanted = [ch for ch in wanted if 0x4E00 <= ord(ch) <= 0x9FFF or 0x3400 <= ord(ch) <= 0x4DBF]
+    if not append:
+        # 只覆盖已有字形，不追加新 glyph，保持字体大小不变
+        wanted = [ch for ch in wanted if ch in position]
     # 已有码位可能是空的或日文占位字形，所以默认全部重绘
     missing = [ch for ch in wanted if ch not in position]
     if not replace and not missing:
@@ -118,10 +128,9 @@ def add_glyphs(
     written = 0
     for ch in wanted:
         if ttf_font is not None:
-            # B2 的 2bpp：0 透明、1 文字色、2 阴影色、3 背景色。
-            # 笔画必须写 1，写 2 会变成浅灰的阴影色。
+            # B2 的 2bpp：0 透明、1 文字色、2 阴影/描边色。
             tile = Image.new("P", (cell_w, cell_h), 0)
-            ImageDraw.Draw(tile).text((0, 1), ch, font=ttf_font, fill=1)
+            ImageDraw.Draw(tile).text((0, y_offset), ch, font=ttf_font, fill=1)
         else:
             code = cmap.get(ch)
             if code is None:
@@ -149,10 +158,32 @@ def add_glyphs(
             position[ch] = slot
         x0 = slot % columns * (cell_w + 1) + 1
         y0 = slot // columns * (cell_h + 1) + 1
+
+        mask = [
+            [1 if tile.getpixel((x, y)) else 0 for x in range(cell_w)]
+            for y in range(cell_h)
+        ]
+        if shadow == "outline":
+            directions = [(-1, -1), (0, -1), (1, -1), (-1, 0), (1, 0), (-1, 1), (0, 1), (1, 1)]
+        else:
+            directions = [(1, 0), (0, 1), (1, 1)]
+
+        # 先清空，再写阴影/描边（2），最后写主笔画（1）
         for y in range(cell_h):
             for x in range(cell_w):
-                # 非零像素一律写成文字色 1，避免 expansion 字库的阴影值 2
-                out_px[x0 + x, y0 + y] = 1 if tile.getpixel((x, y)) else 0
+                out_px[x0 + x, y0 + y] = 0
+        for y in range(cell_h):
+            for x in range(cell_w):
+                if not mask[y][x]:
+                    continue
+                for dx, dy in directions:
+                    nx, ny = x + dx, y + dy
+                    if 0 <= nx < cell_w and 0 <= ny < cell_h:
+                        out_px[x0 + nx, y0 + ny] = 2
+        for y in range(cell_h):
+            for x in range(cell_w):
+                if mask[y][x]:
+                    out_px[x0 + x, y0 + y] = 1
         written += 1
 
     out.save(font_dir / "glyphs.png")
@@ -175,6 +206,10 @@ def main() -> None:
     parser.add_argument("--sheet", default="chinese_normal.png")
     parser.add_argument("--ttf", type=Path, default=None)
     parser.add_argument("--ttf-size", type=int, default=None)
+    parser.add_argument("--cjk-only", action="store_true")
+    parser.add_argument("--shadow", choices=("right", "outline"), default="right")
+    parser.add_argument("--y-offset", type=int, default=1)
+    parser.add_argument("--no-append", action="store_true")
     parser.add_argument("--nitro-font", type=Path, default=None)
     parser.add_argument("--out", type=Path, required=True)
     args = parser.parse_args()
@@ -191,6 +226,10 @@ def main() -> None:
         args.sheet,
         ttf=args.ttf,
         ttf_size=args.ttf_size,
+        cjk_only=args.cjk_only,
+        shadow=args.shadow,
+        y_offset=args.y_offset,
+        append=not args.no_append,
     )
 
     nitro = args.nitro_font or Path("tools/vendor/nitro_font.py")

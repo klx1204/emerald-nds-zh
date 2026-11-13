@@ -60,7 +60,10 @@ def main() -> None:
     parser.add_argument("--patched", type=Path, required=True)
     parser.add_argument("--data", type=Path, default=Path("zh_data"))
     parser.add_argument("--font0", type=Path, required=True)
+    parser.add_argument("--font1", type=Path, default=None)
     parser.add_argument("--font2", type=Path, default=None)
+    parser.add_argument("--no-text", action="store_true")
+    parser.add_argument("--no-font", action="store_true")
     parser.add_argument("--out", type=Path, required=True)
     args = parser.parse_args()
 
@@ -68,17 +71,25 @@ def main() -> None:
     replacements: dict[str, bytes] = {}
 
     for archive in ARCHIVES:
+        if args.no_text:
+            continue
         narc = ndspy.narc.NARC(rom.getFileByName(archive))
         replaced, skipped, total = apply_text(narc, archive, args.data)
         replacements[archive] = narc.save()
         print(f"{archive}: 替换 {replaced}/{total}，跳过 {skipped}")
 
+    if args.no_font:
+        patch(args.patched, args.out, replacements)
+        return
     fonts = ndspy.narc.NARC(rom.getFileByName("a/0/2/3"))
     fonts.files[0] = args.font0.read_bytes()
+    if args.font1 is not None:
+        fonts.files[1] = args.font1.read_bytes()
     if args.font2 is not None:
         fonts.files[2] = args.font2.read_bytes()
     replacements["a/0/2/3"] = fonts.save()
-    print(f"字体: 0{' + 2' if args.font2 else ''}")
+    used = [str(i) for i in (0, 1, 2) if (i == 0 or (i == 1 and args.font1) or (i == 2 and args.font2))]
+    print(f"字体: {' + '.join(used)}")
 
     # 保持原 ROM 大小，只改 FAT 指针
     patch(args.patched, args.out, replacements)
